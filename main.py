@@ -9,16 +9,30 @@ import selectors
 
 from datetime import datetime
 
+# Program for backing up very large amounts of media to smaller drives
+
+# Program generates a list of directory paths to back up including their sizes.
+# It breaks the listing down into chunks designed to fit media of a particular size.
+# It then picks a segment of directories to back up (based on the segment specified on the command line)
+#
+# It features a "dryrun" flag to show what it will do before actually doing it
+#
+# Command-line arguments
+# 0 - section/segment of files in logfile to backup
+# 1 - path to list of files to backup
+# 2 - destination path (root directory of media to backup to)
+
 destination_root = ""
 segment_to_backup = ""
+dryrun = False
 
-
+# Walk tree of destination (backup) media assemble list of paths (destination_directory_list)
 def LoadBackupDriveDirectoryList():
     destination_directory_list = [x[0] for x in os.walk(destination_root)]
     for i, item in enumerate(destination_directory_list):
         destination_directory_list[i] = item.replace(destination_root,"")
 
-    #     Clean the listing of TRASH and other non-directory entries
+    #  Clean the listing of TRASH and other non-directory entries
     returnlist = []
     for item in destination_directory_list:
         if item == "" or item.__contains__('Trash'):
@@ -30,7 +44,6 @@ def LoadBackupDriveDirectoryList():
 
 def LoadSourceDirectoryList(backupsegment, logfile):
     source_directory_list = []
-    # with open ("directory_breakdown.csv", newline='') as f:
     with open (path_to_list_of_files, newline='') as f:
         reader = csv.reader(f)
         for row in reader:
@@ -159,27 +172,37 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(add_help=True)
 
     # add arguments to the parser
-    parser.add_argument("segmenttobackup")
-    parser.add_argument("pathtolistoffiles")
-    parser.add_argument("destinationpath")
-
+    parser.add_argument("segmenttobackup", help="Segment number to back up")
+    parser.add_argument("pathtolistoffiles", help="Path to list of files to be backed up")
+    parser.add_argument("destinationpath", help="Path to media files are to be backed up to")
+    parser.add_argument('-dryrun', action="store_true", default=False)
     # parse the arguments
     try:
         args = parser.parse_args()
     except:
         print("error 1")
 
+    dryrun = args.dryrun
     destination_root = args.destinationpath
     segment_to_backup = args.segmenttobackup
     path_to_list_of_files = args.pathtolistoffiles
 
-# Set up log file
-logfile_name = "rsync_backup_segment_" + segment_to_backup + ".txt"
-logfile = open(logfile_name, "a")
-logfile.write("\n\n* * * * * *\nStarting rsync task at " + str(datetime.now()) + "\n* * * * * *\n")
+# Set up local log file
+def setuplocallogfile():
+    today_short = datetime.today().strftime('%Y%m%d')
+    today_long = datetime.today().strftime('%Y-%m-%d-%H:%M:%S')
+
+    # Initialize logfile
+    logfile_name = "rsync_backup_segment_{0}_{1}.txt".format(segment_to_backup, today_short)
+    logfile = open(logfile_name, "a")
+    logfile.write("\n\n* * * * * *\nStarting rsync task at " + today_long + "\n* * * * * *\n")
+
+    return logfile
+
+local_logfile = setuplocallogfile()
 
 # Get directories from source to backup
-source_directory_list = LoadSourceDirectoryList(segment_to_backup, logfile)
+source_directory_list = LoadSourceDirectoryList(segment_to_backup, local_logfile)
 
 # Get directories currently on backup drive
 destination_directory_list = LoadBackupDriveDirectoryList()
@@ -187,12 +210,20 @@ destination_directory_list = LoadBackupDriveDirectoryList()
 # Get directories to clean off backup drive
 extraneous_paths_list = ClearPermissiblePaths(source_directory_list, destination_directory_list)
 
-# Remove extraneous directories from backup drive
-RemoveDirectoriesNotToRsync(extraneous_paths_list, logfile)
+if not dryrun:
 
-# Backup all source directories
-for sourcepath in source_directory_list:
-    print("Rsyncing path '{0}'".format(sourcepath))
-    ExecuteRsyncBackup(sourcepath, destination_root, logfile)
+    # Remove extraneous directories from backup drive
+    RemoveDirectoriesNotToRsync(extraneous_paths_list, local_logfile)
 
-logfile.write("\n* * * * * *\nEnding rsync task at " + str(datetime.now()) + "\n* * * * * *\n\n")
+    # Backup all source directories
+    for sourcepath in source_directory_list:
+        print("Rsyncing path '{0}'".format(sourcepath))
+        ExecuteRsyncBackup(sourcepath, destination_root, local_logfile)
+
+else:
+
+    local_logfile.write("\n* * * * * *\nEnding rsync task at " + str(datetime.now()) + "\n* * * * * *\n\n")
+
+
+local_logfile.write("\n* * * * * *\nEnding rsync task at " + str(datetime.now()) + "\n* * * * * *\n\n")
+
