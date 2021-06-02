@@ -9,9 +9,6 @@ import selectors
 
 from datetime import datetime
 
-# source_root = "/home/dgraper/colossus_share0/"
-# destination_root = "/media/dgraper/240GB"
-# segment_to_backup = '3'
 destination_root = ""
 segment_to_backup = ""
 
