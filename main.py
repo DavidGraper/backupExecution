@@ -6,14 +6,18 @@ import glob
 import re
 import argparse
 import selectors
+import sys
 
+from os.path import exists
 from datetime import datetime
 
-# Program for backing up very large amounts of media to smaller drives
+# Program for backing up very large amounts of media to multiple devices with drives of varying sizes
 
-# Program generates a list of directory paths to back up including their sizes.
-# It breaks the listing down into chunks designed to fit media of a particular size.
-# It then picks a segment of directories to back up (based on the segment specified on the command line)
+# The program runs on a backup agent and references a file created by the "BackupDistributor" program.  The file
+# lists all the paths that should be backed up and marks each one with the agent that should back them up.
+#
+# This agent program reads that file, gets the paths it should back up, and uses "rsync" to back those paths up to a
+# local drive
 #
 # It features a "dryrun" flag to show what it will do before actually doing it
 #
@@ -22,15 +26,34 @@ from datetime import datetime
 # 1 - path to list of files to backup
 # 2 - destination path (root directory of media to backup to)
 
-destination_root = ""
-segment_to_backup = ""
+localbackupdrivemountpath = ""
+localsourcedrivemountpath = ""
+agentname = ""
 dryrun = False
 
-# Walk tree of destination (backup) media assemble list of paths (destination_directory_list)
+# Set up local log file
+def setuplocallogfile():
+    today_short = datetime.today().strftime('%Y%m%d')
+    today_long = datetime.today().strftime('%Y-%m-%d-%H:%M:%S')
+
+    # Initialize logfile
+    logfile_name = "rsync_backup_segment_{0}_{1}.txt".format(agentname, today_short)
+    logfile = open(logfile_name, "a")
+    logfile.write("\n\n* * * * * *\nStarting rsync task at " + today_long + "\n* * * * * *\n")
+
+    return logfile
+
+# Scan destination media, assemble list of paths (destination_directory_list)
 def LoadBackupDriveDirectoryList():
-    destination_directory_list = [x[0] for x in os.walk(destination_root)]
+
+    # Insure that backup path exists
+    if not os.path.exists(localbackupdrivemountpath):
+        raise Exception("Backup destination path does not exist")
+
+    # Walk the destination backup drive getting a treelisting of directories
+    destination_directory_list = [x[0] for x in os.walk(localbackupdrivemountpath)]
     for i, item in enumerate(destination_directory_list):
-        destination_directory_list[i] = item.replace(destination_root,"")
+        destination_directory_list[i] = item.replace(localbackupdrivemountpath, "/")
 
     #  Clean the listing of TRASH and other non-directory entries
     returnlist = []
@@ -41,28 +64,37 @@ def LoadBackupDriveDirectoryList():
 
     return returnlist
 
-
-def LoadSourceDirectoryList(backupsegment, logfile):
+# Load the paths-to-backup assigned to this agent
+def LoadSourceDirectoryList(directorypathstobackup, backupagent, logfile):
     source_directory_list = []
-    with open (path_to_list_of_files, newline='') as f:
+    with open (directorypathstobackup, newline='') as f:
         reader = csv.reader(f)
         for row in reader:
-            if row[0] != backupsegment:
+            if row[0] != backupagent:
                 continue
-            logfile.write("\nQueued for rsync backup:  {0}".format(row[1]))
-            source_directory_list.append(row[1])
+            logfile.write("\nQueued for rsync backup:  {0}{1}".format(localsourcedrivemountpath,row[2]))
+            source_directory_list.append(localsourcedrivemountpath + row[2])
     return source_directory_list
 
-
+# Delete directories on destination drive no longer needed for sync
 def RemoveDirectoriesNotToRsync(DeleteDirectoryList, logfile):
     logfile.write("\n")
     for item in DeleteDirectoryList:
-        fullpath = destination_root + item
+        fullpath = localbackupdrivemountpath + item
         logmessage = str(datetime.now()) + ": Deleting " + fullpath +"\n"
+
+        print(logmessage)
+
         logfile.write(logmessage)
 
-        process = subprocess.Popen(['rm', '-rf', fullpath], stdout=subprocess.PIPE)
-
+        try:
+            if exists(fullpath):
+                process = subprocess.Popen(['rm', '-rf', fullpath], stdout=subprocess.PIPE)
+            else:
+                raise Exception("Path {0} does not exist".format(fullpath))
+        except Exception as e:
+            print("Remove Directories Error:")
+            print(e)
 
 def ExecuteRsyncBackup(sourcepath, destinationroot, logfile):
     # process = subprocess.Popen(['rsync', '-a', '-v', row[1], '//media//dgraper//240GB'], stdout=subprocess.PIPE)
@@ -117,6 +149,9 @@ def ExecuteRsyncBackup(sourcepath, destinationroot, logfile):
     logmessage = "\nRSYNC of {0} ending {1}\n".format(sourcepath, str(datetime.now()))
     logfile.write(logmessage)
 
+
+# Given a list of directory ('/home/dgraper/movie1', 'home/dgraper/movie2') create a list of all the legitimate combinations of directories
+# in a tree of those directories ('/home', 'home/dgraper', 'home/dgraper/movie1', 'home/dgraper/movie2'
 def GetAllSubpaths(listofpaths):
 
     returnlist = []
@@ -138,23 +173,40 @@ def GetAllSubpaths(listofpaths):
 
     return returnlist
 
+def ConvertStringToRegexPattern(stringin):
+    stringout = stringin.replace("/","\/")
+    stringout = stringout.replace(")","\)")
+    stringout = stringout.replace("(","\(")
+    return stringout
 
-def ClearPermissiblePaths(source_directory_list, destination_directory_list):
+def IdentifyBackedupDirectoriesNoLongerNeeded(source_directory_list, destination_directory_list):
     returnlist = []
 
     # Get all source subpaths for source paths
     source_subpaths = GetAllSubpaths(source_directory_list)
 
-    # First, clear any destination subdirectory that has a source directory as its parent
-    for i in range(0, len(destination_directory_list)):
-        for sourcepath in source_directory_list:
-            matchpattern = "^" + sourcepath
-            if re.match(matchpattern, destination_directory_list[i]):
+    # Remove all destination paths matching source subpaths
+    for sourcepath in source_subpaths:
+        for i in range(0, len(destination_directory_list)):
+            if sourcepath == destination_directory_list[i]:
                 destination_directory_list[i] = ""
 
-        for subpath in source_subpaths:
-            if subpath == destination_directory_list[i]:
+    # Remove all destination patterns which have a parent in the list of source directories
+    for sourcepath in source_directory_list:
+        matchpattern = "^" + ConvertStringToRegexPattern(sourcepath)
+
+        for i in range(0, len(destination_directory_list)):
+            result = re.match(matchpattern, destination_directory_list[i])
+            if result:
                 destination_directory_list[i] = ""
+
+
+    # Clear the entry for the root directory
+    for i in range(0, len(destination_directory_list)):
+
+        if destination_directory_list[i] == '/':
+            destination_directory_list[i] = ""
+            continue
 
     # Generate list of directories to delete
     for item in destination_directory_list:
@@ -164,66 +216,64 @@ def ClearPermissiblePaths(source_directory_list, destination_directory_list):
     return returnlist
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    import sys
 
-    # create parser
+    # Get command-line arguments
     parser = argparse.ArgumentParser(add_help=True)
 
     # add arguments to the parser
-    parser.add_argument("segmenttobackup", help="Segment number to back up")
-    parser.add_argument("pathtolistoffiles", help="Path to list of files to be backed up")
-    parser.add_argument("destinationpath", help="Path to media files are to be backed up to")
-    parser.add_argument('-dryrun', action="store_true", default=False)
-    # parse the arguments
+    parser.add_argument("--agentname", help="Name of this agent")
+    parser.add_argument("--masterpathlist", help="Path to list of files to be backed up")
+    parser.add_argument("--localbackupdrivemountpath", help="Local mount path to attached drive to back files up up to")
+    parser.add_argument("--localsourcedrivemountpath", help="Local mount path to source files to be backed up")
+    parser.add_argument('--dryrun', action="store_true", default=False)
+
     try:
         args = parser.parse_args()
-    except:
-        print("error 1")
+    except Exception as e:
+        print("Error on argument parser: {0}".format(e))
+        exit()
 
     dryrun = args.dryrun
-    destination_root = args.destinationpath
-    segment_to_backup = args.segmenttobackup
-    path_to_list_of_files = args.pathtolistoffiles
+    localsourcedrivemountpath = args.localsourcedrivemountpath
+    localbackupdrivemountpath = args.localbackupdrivemountpath
+    agentname = args.agentname
+    masterlist_allpathstobackup = args.masterpathlist
 
-# Set up local log file
-def setuplocallogfile():
-    today_short = datetime.today().strftime('%Y%m%d')
-    today_long = datetime.today().strftime('%Y-%m-%d-%H:%M:%S')
+    # Start program
 
-    # Initialize logfile
-    logfile_name = "rsync_backup_segment_{0}_{1}.txt".format(segment_to_backup, today_short)
-    logfile = open(logfile_name, "a")
-    logfile.write("\n\n* * * * * *\nStarting rsync task at " + today_long + "\n* * * * * *\n")
+    # Set up the local logfile that contains status messages
+    local_logfile = setuplocallogfile()
 
-    return logfile
+    # Get directory paths from the masterlist for this agent to backup
+    directorypaths_to_backup = LoadSourceDirectoryList(masterlist_allpathstobackup, agentname, local_logfile)
 
-local_logfile = setuplocallogfile()
+    # Get the directories currently on the backup drive
+    try:
+        destination_directory_list = LoadBackupDriveDirectoryList()
+    except Exception as e:
+        print("Error on accessing the backup drive: {0}".format(e))
+        exit()
 
-# Get directories from source to backup
-source_directory_list = LoadSourceDirectoryList(segment_to_backup, local_logfile)
+    # Compare the directories currently on the backup drive with the paths this agent is supposed to back up
+    extraneous_paths_list = IdentifyBackedupDirectoriesNoLongerNeeded(directorypaths_to_backup, destination_directory_list)
 
-# Get directories currently on backup drive
-destination_directory_list = LoadBackupDriveDirectoryList()
+    local_logfile.write("\n\nSystem will delete these paths on the backup drive before continuing:\n\n")
+    for string1 in extraneous_paths_list:
+        local_logfile.write("\t{0}\n".format(string1))
 
-# Get directories to clean off backup drive
-extraneous_paths_list = ClearPermissiblePaths(source_directory_list, destination_directory_list)
+    if not dryrun:
 
-if not dryrun:
+        # Remove extraneous directories from backup drive
+        RemoveDirectoriesNotToRsync(extraneous_paths_list, local_logfile)
 
-    # Remove extraneous directories from backup drive
-    RemoveDirectoriesNotToRsync(extraneous_paths_list, local_logfile)
+        # Backup all source directories
+        for sourcepath in directorypaths_to_backup:
+            print("Rsyncing path '{0}'".format(sourcepath))
+            ExecuteRsyncBackup(sourcepath, localbackupdrivemountpath, local_logfile)
 
-    # Backup all source directories
-    for sourcepath in source_directory_list:
-        print("Rsyncing path '{0}'".format(sourcepath))
-        ExecuteRsyncBackup(sourcepath, destination_root, local_logfile)
+        local_logfile.write("\n* * * * * *\nEnding rsync task at " + str(datetime.now()) + "\n* * * * * *\n\n")
+    else:
 
-else:
-
-    local_logfile.write("\n* * * * * *\nEnding rsync task at " + str(datetime.now()) + "\n* * * * * *\n\n")
-
-
-local_logfile.write("\n* * * * * *\nEnding rsync task at " + str(datetime.now()) + "\n* * * * * *\n\n")
+        local_logfile.write("\n* * * * * *\nEnding rsync task at " + str(datetime.now()) + "\n* * * * * *\n\n")
 
