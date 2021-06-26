@@ -1,0 +1,5 @@
+dryrun:True
+masterpathlist:"output.csv"
+localsourcedrivemountpath:"/home/dgraper/colossus_share0/"
+agent0:"opt0_240":"/media/dgraper/BACKUP240/"
+agent1:"opt1_500":"/media/dgraper/BACKUP500/"

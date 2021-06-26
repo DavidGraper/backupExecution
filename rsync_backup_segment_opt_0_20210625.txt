@@ -1,0 +1,34 @@
+
+
+* * * * * *
+Starting rsync task at 2021-06-25-15:43:12
+* * * * * *
+
+Queued for rsync backup:  /home/dgraper/colossus_share0/Television/A Christmas Carol
+Queued for rsync backup:  /home/dgraper/colossus_share0/Television/A Discovery of Witches
+Queued for rsync backup:  /home/dgraper/colossus_share0/Television/A Very Brady Renovation
+Queued for rsync backup:  /home/dgraper/colossus_share0/Television/Alfred Hitchcock Presents
+Queued for rsync backup:  /home/dgraper/colossus_share0/Television/America's Test Kitchen
+
+System will delete these paths on the backup drive before continuing:
+
+
+
+RSYNC of /home/dgraper/colossus_share0/Television/A Christmas Carol starting 2021-06-25 15:43:12.925616
+
+
+* * * * * *
+Starting rsync task at 2021-06-25-15:43:19
+* * * * * *
+
+Queued for rsync backup:  /home/dgraper/colossus_share0/Television/A Christmas Carol
+Queued for rsync backup:  /home/dgraper/colossus_share0/Television/A Discovery of Witches
+Queued for rsync backup:  /home/dgraper/colossus_share0/Television/A Very Brady Renovation
+Queued for rsync backup:  /home/dgraper/colossus_share0/Television/Alfred Hitchcock Presents
+Queued for rsync backup:  /home/dgraper/colossus_share0/Television/America's Test Kitchen
+
+System will delete these paths on the backup drive before continuing:
+
+
+
+RSYNC of /home/dgraper/colossus_share0/Television/A Christmas Carol starting 2021-06-25 15:43:19.392552

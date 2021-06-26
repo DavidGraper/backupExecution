@@ -7,6 +7,7 @@ import re
 import argparse
 import selectors
 import sys
+import string
 
 from os.path import exists
 from datetime import datetime
@@ -27,12 +28,16 @@ from datetime import datetime
 # 2 - destination path (root directory of media to backup to)
 
 localbackupdrivemountpath = ""
+
+masterlist_allpathstobackup = ""
+agentinfo = []
 localsourcedrivemountpath = ""
-agentname = ""
+
 dryrun = False
+configfile = ""
 
 # Set up local log file
-def setuplocallogfile():
+def setuplocallogfile(agentname):
     today_short = datetime.today().strftime('%Y%m%d')
     today_long = datetime.today().strftime('%Y-%m-%d-%H:%M:%S')
 
@@ -215,6 +220,59 @@ def IdentifyBackedupDirectoriesNoLongerNeeded(source_directory_list, destination
 
     return returnlist
 
+def ConfigFileExistsAndIsValid(configfileName):
+
+    # Does file exist
+    if not os.path.exists(configfileName):
+        raise Exception("Specified config file does not exist")
+
+    # Read file
+    config_dict = {}
+
+    argsandvals = []
+    f = open(configfileName, "r")
+    fileline = f.readline()
+
+    while fileline:
+        lineparts = fileline.split(':')
+        if len(lineparts) == 2:
+            argsandvals.append([lineparts[0].strip(), lineparts[1].strip(), ""])
+        if len(lineparts) == 3:
+            argsandvals.append([lineparts[0].strip(), lineparts[1].strip(), lineparts[2].strip()])
+        fileline = f.readline()
+    f.close()
+
+    # Search for all required arguments
+
+    # Assemble agent information
+    agentpattern = r"^AGENT\d.*$"
+    for argandval in argsandvals:
+        arg = argandval[0].upper()
+        val0 = argandval[1]
+        val1 = argandval[2]
+
+        if re.match(agentpattern, arg):
+            agentinfo.append({'agentname':val0, 'agentbackupdevice': val1})
+
+        if arg == "DRYRUN":
+            if val0 == "True" : dryrun = True
+            else: dryrun = False
+        elif arg == "LOCALSOURCEDRIVEMOUNTPATH":
+            localsourcedrivemountpath = val0
+        elif arg == "MASTERPATHLIST":
+            masterlist_allpathstobackup = val0
+
+    if len(agentinfo) == 0:
+        raise Exception("No agents specified")
+    elif len(agentinfo) > 4:
+        raise Exception(r"Too many agents (>4) specified")
+    elif len(localsourcedrivemountpath) == 0:
+        raise Exception(r"No local source drive mount path specified")
+    elif len(masterlist_allpathstobackup) == 0:
+        raise Exception(r"No master list of all paths to backup specified")
+
+    return localsourcedrivemountpath, masterlist_allpathstobackup, dryrun
+
 
 if __name__ == '__main__':
 
@@ -222,11 +280,12 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(add_help=True)
 
     # add arguments to the parser
-    parser.add_argument("--agentname", help="Name of this agent")
-    parser.add_argument("--masterpathlist", help="Path to list of files to be backed up")
-    parser.add_argument("--localbackupdrivemountpath", help="Local mount path to attached drive to back files up up to")
-    parser.add_argument("--localsourcedrivemountpath", help="Local mount path to source files to be backed up")
+    # parser.add_argument("--agentname", help="Name of this agent")
+    # parser.add_argument("--masterpathlist", help="Path to list of files to be backed up")
+    # parser.add_argument("--localbackupdrivemountpath", help="Local mount path to attached drive to back files up up to")
+    # parser.add_argument("--localsourcedrivemountpath", help="Local mount path to source files to be backed up")
     parser.add_argument('--dryrun', action="store_true", default=False)
+    parser.add_argument("--configfile", help="Configuration file")
 
     try:
         args = parser.parse_args()
@@ -235,18 +294,34 @@ if __name__ == '__main__':
         exit()
 
     dryrun = args.dryrun
-    localsourcedrivemountpath = args.localsourcedrivemountpath
-    localbackupdrivemountpath = args.localbackupdrivemountpath
-    agentname = args.agentname
-    masterlist_allpathstobackup = args.masterpathlist
+    # localsourcedrivemountpath = args.localsourcedrivemountpath
+    # localbackupdrivemountpath = args.localbackupdrivemountpath
+    # agentname = args.agentname
+    # masterlist_allpathstobackup = args.masterpathlist
+    configfile = args.configfile
 
     # Start program
 
-    # Set up the local logfile that contains status messages
-    local_logfile = setuplocallogfile()
+    # Check to see if config file exists; if so, it is source of all config info (command line arguments ignored)
+    if configfile != "":
+        returnval = ConfigFileExistsAndIsValid(configfile)
 
-    # Get directory paths from the masterlist for this agent to backup
-    directorypaths_to_backup = LoadSourceDirectoryList(masterlist_allpathstobackup, agentname, local_logfile)
+        # Function returns a 3-member tuple
+        masterlist_allpathstobackup = returnval[1]
+        localsourcedrivemountpath = returnval[0]
+        dryrun=returnval[2]
+    else:
+        print("No config file specified")
+        exit()
+
+    # Handle multiple agents (if specified)
+    for agent in agentinfo:
+
+        # Set up the local logfile that contains status messages
+        local_logfile = setuplocallogfile(agent)
+
+        # Get directory paths from the masterlist for this agent to backup
+        directorypaths_to_backup = LoadSourceDirectoryList(masterlist_allpathstobackup, agentname[0], local_logfile)
 
     # Get the directories currently on the backup drive
     try:
