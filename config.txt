@@ -1,5 +1,4 @@
-dryrun:True
-masterpathlist:"output.csv"
-localsourcedrivemountpath:"/home/dgraper/colossus_share0/"
-agent0:"opt0_240":"/media/dgraper/BACKUP240/"
-agent1:"opt1_500":"/media/dgraper/BACKUP500/"
+dryrun:"False"
+masterpathlist:"/home/dgraper/backupserver_share0/backupjobdivisions.txt"
+agent0:"BackupDevice1":"/media/dgraper/volume08/"
+agent1:"BackupDevice2":"/media/dgraper/volume16/"
