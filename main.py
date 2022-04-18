@@ -294,6 +294,29 @@ def ReadConfigurationFile(configfileName):
 
     return masterlist_allpathstobackup, dryrun
 
+
+def create_tobedone_files(inputfilename, agent):
+
+    # Read the full "backupjobdivisions.txt" file and pull out only lines belonging to this agent,
+    # save to another text file ("tobedone.txt" file)
+
+    file_output = open("{0}_tobedone.txt".format(agent["agentname"]), "w", encoding='latin-1')
+
+    with open(inputfilename, encoding='latin-1') as file_input:
+        for inputline in file_input:
+            match = re.search("^BackupDevice1\t(.*)\t\d+\t\d+$", inputline)
+            if not match is None:
+                print(match.group(1))
+                file_output.write(match.group(1) + "\n")
+
+    file_output.close()
+
+
+def create_outputmedia_logfile(mediapathname, agent):
+    command = "du {0} | tee {1}_media.txt".format(mediapathname, agent["agentname"])
+    os.system(command)
+
+
 # Start
 if __name__ == '__main__':
 
@@ -336,6 +359,13 @@ if __name__ == '__main__':
 
     # Handle multiple agents (if specified)
     for agent in agentinfo:
+
+        # Extract lists of files to be backed up by each backup server
+        create_tobedone_files("backupjobdivisions.txt", agent)
+
+        # Create a logfile of the destination drive
+        filepath = "/media/dgraper/BA2E5E652E5E1AA9/"
+        create_outputmedia_logfile(filepath, agent)
 
         # Set up the local logfile that contains status messages
         local_logfile = setuplocallogfile(agent)
