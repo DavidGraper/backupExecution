@@ -367,6 +367,8 @@ if __name__ == '__main__':
         filepath = "/media/dgraper/BA2E5E652E5E1AA9/"
         create_outputmedia_logfile(filepath, agent)
 
+        #
+
         # Set up the local logfile that contains status messages
         local_logfile = setuplocallogfile(agent)
 
