@@ -313,9 +313,14 @@ def create_tobedone_files(inputfilename, agent):
 
 
 def create_outputmedia_logfile(mediapathname, agent):
-    command = "du {0} | tee {1}_media.txt".format(mediapathname, agent["agentname"])
+
+    outputfilename = "{0}_media.txt".format(agent["agentname"])
+
+    command = "du {0} | tee {1}".format(mediapathname, outputfilename)
     os.system(command)
 
+    command = "du {0} | sed 's/^[0-9]*\t//' | sort | tee {1}".format(mediapathname, outputfilename)
+    os.system(command)
 
 # Start
 if __name__ == '__main__':
@@ -364,7 +369,7 @@ if __name__ == '__main__':
         create_tobedone_files("backupjobdivisions.txt", agent)
 
         # Create a logfile of the destination drive
-        filepath = "/media/dgraper/BA2E5E652E5E1AA9/"
+        filepath = "/media/dgraper/PATRIOT/"
         create_outputmedia_logfile(filepath, agent)
 
         #
