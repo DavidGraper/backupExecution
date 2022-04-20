@@ -319,8 +319,13 @@ def create_outputmedia_logfile(mediapathname, agent):
     command = "du {0} | tee {1}".format(mediapathname, outputfilename)
     os.system(command)
 
-    command = "du {0} | sed 's/^[0-9]*\t//' | sort | tee {1}".format(mediapathname, outputfilename)
-    os.system(command)
+    command0 = "du {0} | sed 's/^[0-9]*\\t{2}//' | sort | tee {1}".format(mediapathname, outputfilename,
+                                                                          mediapathname[:-1].replace('/','\\/'))
+    # command1 = r"du /media/dgraper/PATRIOT/ | sed 's/^[0-9]*\t\/media\/dgraper\/PATRIOT\///' | sort | tee BackupDevice1_media.txt"
+
+    os.system(command0)
+
+    # command1 = "diff {0}_tobedone.txt BackupDevice1_media.txt -u | sed '/^+/!d' | sed 's/^+//' > BackupDevice1_filestodelete.sh".format(m)
 
 # Start
 if __name__ == '__main__':
