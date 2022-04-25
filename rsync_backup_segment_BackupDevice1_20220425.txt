@@ -1,0 +1,25 @@
+
+
+* * * * * *
+Starting rsync task at 2022-04-25-12:16:00
+* * * * * *
+
+
+* * * * * *
+Starting rsync task at 2022-04-25-12:23:17
+* * * * * *
+
+
+* * * * * *
+Starting rsync task at 2022-04-25-13:36:58
+* * * * * *
+
+
+* * * * * *
+Starting rsync task at 2022-04-25-13:38:39
+* * * * * *
+
+
+* * * * * *
+Starting rsync task at 2022-04-25-13:41:24
+* * * * * *

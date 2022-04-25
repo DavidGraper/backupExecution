@@ -327,6 +327,39 @@ def create_outputmedia_logfile(mediapathname, agent):
 
     # command1 = "diff {0}_tobedone.txt BackupDevice1_media.txt -u | sed '/^+/!d' | sed 's/^+//' > BackupDevice1_filestodelete.sh".format(m)
 
+
+def removelinesfrommedialistingfile(filename, rootpathtoavoid, pathstoavoid):
+
+    # Break down rootpath into component paths to avoid, add those to "pathstoavoid"
+    rootpaths = rootpathtoavoid.split("/")
+    del rootpaths[0]
+
+    pathtoavoid = ""
+    for rootpath in rootpaths:
+        pathtoavoid += "/" + rootpath
+        pathstoavoid.append(pathtoavoid)
+
+    lines = []
+    with open(filename, "r") as fp:
+        for line in fp:
+            lines.append(line.replace("\n",""))
+
+    with open(filename, "w") as fp:
+        for line in lines:
+            if not line in pathstoavoid:
+                fp.write(line + "\n")
+
+
+def create_filestodelete_shellfile(agent):
+    command = "diff {0}_tobedone.txt {0}_media.txt -u | sed '/^+/!d' | sed 's/^+//' | sed '/^+/d' > {0}_filestodelete.sh".format(agent['agentname'])
+
+    # command = r"diff {0}_tobedone.txt {0}_media.txt -u | sed '/^\+/!d' | sed 's/^\+//' | sed '/^\+/d' | sed 's/ /\\ /g' | sed 's/&/\\&/g' | sed \"s/'/\\\\'/\" | sed 's/^/rmdir -rf /' > BackupDevice1_filestodelete.sh".format(agent['agentname'])
+    #
+    # command = "diff {0}_tobedone.txt {0}_media.txt -u | sed '/^\+/!d' | sed 's/^\+//' | sed '/^\+/d' | sed 's/\ /\\ /g' | sed 's/&/\\&/g' | sed 's/^/rmdir -rf /' > BackupDevice1_filestodelete.sh".format(agent['agentname'])
+
+    os.system(command)
+
+
 # Start
 if __name__ == '__main__':
 
@@ -378,6 +411,11 @@ if __name__ == '__main__':
         create_outputmedia_logfile(filepath, agent)
 
         #
+        pathstoavoid = ['/System Volume Information', '/']
+        removelinesfrommedialistingfile("BackupDevice1_media.txt","/home/dgraper/colossus_share0", pathstoavoid)
+
+        # Create a shell file of files to delete
+        create_filestodelete_shellfile(agent)
 
         # Set up the local logfile that contains status messages
         local_logfile = setuplocallogfile(agent)
