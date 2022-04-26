@@ -351,14 +351,52 @@ def removelinesfrommedialistingfile(filename, rootpathtoavoid, pathstoavoid):
 
 
 def create_filestodelete_shellfile(agent):
-    command = "diff {0}_tobedone.txt {0}_media.txt -u | sed '/^+/!d' | sed 's/^+//' | sed '/^+/d' > {0}_filestodelete.sh".format(agent['agentname'])
-
-    # command = r"diff {0}_tobedone.txt {0}_media.txt -u | sed '/^\+/!d' | sed 's/^\+//' | sed '/^\+/d' | sed 's/ /\\ /g' | sed 's/&/\\&/g' | sed \"s/'/\\\\'/\" | sed 's/^/rmdir -rf /' > BackupDevice1_filestodelete.sh".format(agent['agentname'])
-    #
-    # command = "diff {0}_tobedone.txt {0}_media.txt -u | sed '/^\+/!d' | sed 's/^\+//' | sed '/^\+/d' | sed 's/\ /\\ /g' | sed 's/&/\\&/g' | sed 's/^/rmdir -rf /' > BackupDevice1_filestodelete.sh".format(agent['agentname'])
-
+    # command = r"diff {0}_tobedone.txt {0}_media.txt -u | sed '/^\+/!d' | sed 's/^\+//' | sed '/^\+/d' | sed 's/ /\\ /g' | sed 's/&/\\&/g' > {0}_filestodelete.sh".format(agent['agentname'])
+    command = r"diff {0}_tobedone.txt {0}_media.txt -u | sed '/^\+/!d' | sed 's/^\+//' | sed '/^\+/d' > {0}_filestodelete.sh".format(agent['agentname'])
     os.system(command)
 
+    # Escape characters in shell file
+    lines = []
+
+    filename ="BackupDevice1_filestodelete.sh"
+
+    with open(filename, "r") as fp:
+        for line in fp:
+
+            line = line.replace(" ","\\ ")
+            line = line.replace("&","\\&")
+            line = line.replace("'","\\'")
+            line = line.replace("(","\\(")
+            line = line.replace(")","\\)")
+            line = "rm -rf /media/dgraper/PATRIOT" + line
+
+            lines.append(line)
+
+    with open(filename, "w") as fp:
+        for line in lines:
+            fp.write(line)
+
+
+def create_backup_shellfile(agent):
+
+    lines = []
+
+    inputfilename ="BackupDevice1_tobedone.txt"
+    outputfilename = "BackupDevice1_backup.sh"
+
+    destinationdrive = "/media/dgraper/PATRIOT"
+
+    with open(outputfilename, "w") as fileout:
+        with open(inputfilename, "r") as filein:
+            for line in filein:
+
+                line = line.replace(" ", "\\ ")
+                line = line.replace("&", "\\&")
+                line = line.replace("'", "\\'")
+                line = line.replace("(", "\\(")
+                line = line.replace(")", "\\)")
+
+                fileout.write("rsync -Rhvp {0}/* {1}\n".format(line.replace("\n",""), destinationdrive))
 
 # Start
 if __name__ == '__main__':
@@ -416,6 +454,9 @@ if __name__ == '__main__':
 
         # Create a shell file of files to delete
         create_filestodelete_shellfile(agent)
+
+        # Modify the "to be done" file into a shell file
+        create_backup_shellfile(agent)
 
         # Set up the local logfile that contains status messages
         local_logfile = setuplocallogfile(agent)
