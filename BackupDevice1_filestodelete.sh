@@ -1,5 +1,3 @@
-rm -rf /media/dgraper/PATRIOT/home/dgraper/colossus_share0/4kvid
-rm -rf /media/dgraper/PATRIOT/home/dgraper/colossus_share0/4kvid/031822
 rm -rf /media/dgraper/PATRIOT/.Trash-1000
 rm -rf /media/dgraper/PATRIOT/.Trash-1000/files
 rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/031822
@@ -101,6 +99,20 @@ rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/backupExecution/.idea
 rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/backupExecution/.idea/inspectionProfiles
 rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/backupExecution/.idea/shelf
 rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/backupExecution/.idea/shelf/Uncommitted_changes_before_Update_at_4_19_22,_3_55_PM_[Changes]
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/Fats\ Waller\ -\ Breakin\'\ The\ Ice
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/Fats\ Waller\ -\ Breakin\'\ The\ Ice/Disc\ 1
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home/dgraper
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home/dgraper/colossus_share0
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home/dgraper/colossus_share0/4kvid
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home/dgraper/colossus_share0/4kvid/031822
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home/dgraper/colossus_share0/Audio0
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home/dgraper/colossus_share0/Audio0/1920-30s\ Music
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home/dgraper/colossus_share0/Audio0/1920-30s\ Music/1936\ A\ Time\ To\ Remember
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home/dgraper/colossus_share0/Audio0/1920-30s\ Music/Fats\ Waller\ -\ Breakin\'\ The\ Ice
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home/dgraper/colossus_share0/Audio0/1920-30s\ Music/Fats\ Waller\ -\ Breakin\'\ The\ Ice/Disc\ 1
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home/dgraper/colossus_share0/Movies
+rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/home/dgraper/colossus_share0/Movies/The\ Best\ Man\ \(1964\)
 rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/pythonProject
 rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/pythonProject/.idea
 rm -rf /media/dgraper/PATRIOT/.Trash-1000/files/pythonProject/.idea/inspectionProfiles

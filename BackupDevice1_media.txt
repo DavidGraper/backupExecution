@@ -1,10 +1,7 @@
-/home/dgraper/colossus_share0/4kvid
-/home/dgraper/colossus_share0/4kvid/031822
 /home/dgraper/colossus_share0/Audio0
 /home/dgraper/colossus_share0/Audio0/1920-30s Music
-/home/dgraper/colossus_share0/Audio0/1920-30s Music/1936 A Time To Remember
-/home/dgraper/colossus_share0/Movies
-/home/dgraper/colossus_share0/Movies/The Best Man (1964)
+/home/dgraper/colossus_share0/Audio0/1920-30s Music/Fats Waller - Breakin' The Ice
+/home/dgraper/colossus_share0/Audio0/1920-30s Music/Fats Waller - Breakin' The Ice/Disc 1
 /.Trash-1000
 /.Trash-1000/files
 /.Trash-1000/files/031822
@@ -106,6 +103,20 @@
 /.Trash-1000/files/backupExecution/.idea/inspectionProfiles
 /.Trash-1000/files/backupExecution/.idea/shelf
 /.Trash-1000/files/backupExecution/.idea/shelf/Uncommitted_changes_before_Update_at_4_19_22,_3_55_PM_[Changes]
+/.Trash-1000/files/Fats Waller - Breakin' The Ice
+/.Trash-1000/files/Fats Waller - Breakin' The Ice/Disc 1
+/.Trash-1000/files/home
+/.Trash-1000/files/home/dgraper
+/.Trash-1000/files/home/dgraper/colossus_share0
+/.Trash-1000/files/home/dgraper/colossus_share0/4kvid
+/.Trash-1000/files/home/dgraper/colossus_share0/4kvid/031822
+/.Trash-1000/files/home/dgraper/colossus_share0/Audio0
+/.Trash-1000/files/home/dgraper/colossus_share0/Audio0/1920-30s Music
+/.Trash-1000/files/home/dgraper/colossus_share0/Audio0/1920-30s Music/1936 A Time To Remember
+/.Trash-1000/files/home/dgraper/colossus_share0/Audio0/1920-30s Music/Fats Waller - Breakin' The Ice
+/.Trash-1000/files/home/dgraper/colossus_share0/Audio0/1920-30s Music/Fats Waller - Breakin' The Ice/Disc 1
+/.Trash-1000/files/home/dgraper/colossus_share0/Movies
+/.Trash-1000/files/home/dgraper/colossus_share0/Movies/The Best Man (1964)
 /.Trash-1000/files/pythonProject
 /.Trash-1000/files/pythonProject/.idea
 /.Trash-1000/files/pythonProject/.idea/inspectionProfiles

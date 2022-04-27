@@ -377,7 +377,7 @@ def create_filestodelete_shellfile(agent):
             fp.write(line)
 
 
-def create_backup_shellfile(agent):
+def create_backup_shellfile(agent, fastbackup):
 
     lines = []
 
@@ -396,7 +396,10 @@ def create_backup_shellfile(agent):
                 line = line.replace("(", "\\(")
                 line = line.replace(")", "\\)")
 
-                fileout.write("rsync -Rhvp {0}/* {1}\n".format(line.replace("\n",""), destinationdrive))
+                if fastbackup == True:
+                    fileout.write("rsync -Rhvp --ignore-existing {0}/* {1}\n".format(line.replace("\n",""), destinationdrive))
+                else:
+                    fileout.write("rsync -Rhvp {0}/* {1}\n".format(line.replace("\n",""), destinationdrive))
 
 # Start
 if __name__ == '__main__':
@@ -456,7 +459,7 @@ if __name__ == '__main__':
         create_filestodelete_shellfile(agent)
 
         # Modify the "to be done" file into a shell file
-        create_backup_shellfile(agent)
+        create_backup_shellfile(agent, True)
 
         # Set up the local logfile that contains status messages
         local_logfile = setuplocallogfile(agent)
