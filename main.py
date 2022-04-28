@@ -27,15 +27,6 @@ from datetime import datetime
 # 1 - path to list of files to backup
 # 2 - destination path (root directory of media to backup to)
 
-
-# CSV file containing all paths to backup and agents assigned to each (output from "BackupDistributor")
-filename_allpathstobackup = ""
-
-# List of agents that this computer represents as well as devices on this computer used for backups
-agentinfo = []
-
-dryrun = False
-
 # Name of local configuration file
 configfile = ""
 
@@ -241,58 +232,45 @@ def IdentifyBackedupDirectoriesNoLongerNeeded(source_directory_list, destination
 
     return returnlist
 
-def ReadConfigurationFile(configfileName):
+def ReadConfigurationFile(configfileName, masterpath, filename_allpathstobackup, dryrun, agentinfo):
 
     # Does file exist
     if not os.path.exists(configfileName):
         raise Exception("Specified config file does not exist")
 
-    # Read file
-    config_dict = {}
+    # Config file is a series of strings with 3 arguments separated with colons
 
-    argsandvals = []
     f = open(configfileName, "r")
     fileline = f.readline()
-
     while fileline:
-
         lineparts = fileline.split(':')
+        arg = lineparts[0].upper()
+        val0 = lineparts[1]
 
+        agentpattern = r"^AGENT\d.*$"
+
+        # Arguments have only two parts
         if len(lineparts) == 2:
-            argsandvals.append([lineparts[0].strip(), lineparts[1].replace('"','').strip(), ""])
+            if arg == "DRYRUN":
+                dryrun = val0
+            elif arg == "LOCALSOURCEDRIVEMOUNTPATH":
+                localsourcedrivemountpath = val0
+            elif arg == "ALLFAILESTOBACKUPLIST":
+                filename_allpathstobackup = val0
+            elif arg == "MASTERPATH":
+                masterpath = val0
         if len(lineparts) == 3:
-            argsandvals.append([lineparts[0].strip(), lineparts[1].replace('"','').strip(), lineparts[2].replace('"','').strip()])
+            val1 = lineparts[2]
+            if re.match(agentpattern, arg):
+                agentinfo.append({'agentname': val0, 'agentbackupdevice': val1})
+
         fileline = f.readline()
     f.close()
-
-    # Search for all required arguments
-
-    # Assemble agent information
-    agentpattern = r"^AGENT\d.*$"
-    for argandval in argsandvals:
-        arg = argandval[0].upper()
-        val0 = argandval[1]
-        val1 = argandval[2]
-
-        if re.match(agentpattern, arg):
-            agentinfo.append({'agentname':val0, 'agentbackupdevice': val1})
-
-        if arg == "DRYRUN":
-            if val0 == "True" : dryrun = True
-            else: dryrun = False
-        elif arg == "LOCALSOURCEDRIVEMOUNTPATH":
-            localsourcedrivemountpath = val0
-        elif arg == "MASTERPATHLIST":
-            masterlist_allpathstobackup = val0
 
     if len(agentinfo) == 0:
         raise Exception("No agents specified")
     elif len(agentinfo) > 4:
         raise Exception(r"Too many agents (>4) specified")
-    elif len(masterlist_allpathstobackup) == 0:
-        raise Exception(r"No master list of all paths to backup specified")
-
-    return masterlist_allpathstobackup, dryrun
 
 
 def create_tobedone_files(inputfilename, agent):
@@ -312,8 +290,9 @@ def create_tobedone_files(inputfilename, agent):
     file_output.close()
 
 
-def create_outputmedia_logfile(mediapathname, agent):
+def create_outputmedia_logfile(agent, mediafilename):
 
+    mediapathname = agent["agentbackupdevice"]
     outputfilename = "{0}_media.txt".format(agent["agentname"])
 
     command = "du {0} | tee {1}".format(mediapathname, outputfilename)
@@ -327,6 +306,7 @@ def create_outputmedia_logfile(mediapathname, agent):
 
     # command1 = "diff {0}_tobedone.txt BackupDevice1_media.txt -u | sed '/^+/!d' | sed 's/^+//' > BackupDevice1_filestodelete.sh".format(m)
 
+    mediafilename = outputfilename
 
 def removelinesfrommedialistingfile(filename, rootpathtoavoid, pathstoavoid):
 
@@ -404,12 +384,22 @@ def create_backup_shellfile(agent, fastbackup):
 # Start
 if __name__ == '__main__':
 
+    # CSV file containing all paths to backup and agents assigned to each (output from "BackupDistributor")
+    filename_allpathstobackup = ""
+
+    # List of agents that this computer represents as well as devices on this computer used for backups
+    agentinfo = []
+
+    dryrun = False
+
     # Get command-line arguments
     parser = argparse.ArgumentParser(add_help=True)
 
     # add arguments to the parser
     parser.add_argument('--dryrun', action="store_true", default=False)
     parser.add_argument("--configfile", help="Configuration file")
+    parser.add_argument("--verbose", help="Show verbose output", default=False)
+    parser.add_argument("--masterpath", help="Path to be backed up", default="")
 
     try:
         args = parser.parse_args()
@@ -417,43 +407,59 @@ if __name__ == '__main__':
         print("Error on argument parser: {0}".format(e))
         exit()
 
+    masterpath = args.masterpath
     dryrun = args.dryrun
     configfile = args.configfile
+    verbose = args.verbose
 
     # Start program
 
     # Check to see if config file exists; if so, it is source of all config info (command line arguments ignored)
     if configfile != "":
-        returnval = ReadConfigurationFile(configfile)
-
-        # Function returns a 3-member tuple
-        #
-        # Element 1 = The local path that the remote server is mounted on
-        # Element 3 = Dryrun flag
-        #
-        # It also sets the "agent" list which is made up of dictionary elements listing agent name and
-        # agent backup share name
-        #
-
-        filename_allpathstobackup = returnval[0]
-        dryrun=returnval[1]
+        ReadConfigurationFile(configfile, masterpath, filename_allpathstobackup, dryrun, agentinfo)
     else:
         print("No config file specified")
         exit()
+
+    # DIAGNOSTIC - Use local file during debugging
+    filename_allpathstobackup = "backupjobdivisions.txt"
+
+    mediafilename = ""
 
     # Handle multiple agents (if specified)
     for agent in agentinfo:
 
         # Extract lists of files to be backed up by each backup server
-        create_tobedone_files("backupjobdivisions.txt", agent)
+        # 1.  Create <BackupDeviceName>_tobedone.txt file for this agent
+        # (the list of paths to be backed up by this agent)
+        create_tobedone_files(filename_allpathstobackup, agent)
 
-        # Create a logfile of the destination drive
-        filepath = "/media/dgraper/PATRIOT/"
-        create_outputmedia_logfile(filepath, agent)
+        # DIAGNOSTIC - Use local device during debugging
+        agent["agentbackupdevice"]= "/media/dgraper/PATRIOT/"
 
+
+        # 2.  Create <BackupDeviceName>_media.txt which lists all directories
+        # currently on this agent's backup device
+        create_outputmedia_logfile(agent, mediafilename)
+
+        # 3.  Remove all "root" directories from the <BackupDeviceName>_media.txt file. In the next
+        # step we'll be comparing the directories on the _media.txt file with the list of directories to be backed
+        # up, seeking "extraneous" directories in the _media.txt file that don't have matches in the list of
+        # directories to be backed up.
         #
+        # These are directories that will be removed before starting backups -- since they're not in the list of
+        # source directories, we want to save space and remove them from the destination drive.
+        #
+        # We want to avoid leaving the source "root" directories in the media listing file.  If we leave them in,
+        # the root will be marked for cleanup on the destination media and it'll basically clear the whole thing
+        # out, requiring redundant re-backing up.
+
+        # These are fixed paths on the destination drive we know we don't want to remove
         pathstoavoid = ['/System Volume Information', '/']
-        removelinesfrommedialistingfile("BackupDevice1_media.txt","/home/dgraper/colossus_share0", pathstoavoid)
+
+        # DIAGNOSTIC - For debugging
+        masterpath = "/home/dgraper/colossus_share0"
+        removelinesfrommedialistingfile(mediafilename,masterpath, pathstoavoid)
 
         # Create a shell file of files to delete
         create_filestodelete_shellfile(agent)
