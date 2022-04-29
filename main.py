@@ -8,6 +8,7 @@ import argparse
 import selectors
 import sys
 import string
+import stat
 
 from os.path import exists
 from datetime import datetime
@@ -31,16 +32,18 @@ from datetime import datetime
 configfile = ""
 
 # Set up local log file
-def setuplocallogfile(agent):
+def createlocallogfile(agent):
     today_short = datetime.today().strftime('%Y%m%d')
     today_long = datetime.today().strftime('%Y-%m-%d-%H:%M:%S')
 
     # Initialize logfile
-    logfile_name = "rsync_backup_segment_{0}_{1}.txt".format(agent["agentname"], today_short)
+    logfile_name = "rsync_{0}_{1}.txt".format(agent["agentname"], today_short)
     logfile = open(logfile_name, "a")
-    logfile.write("\n\n* * * * * *\nStarting rsync task at " + today_long + "\n* * * * * *\n")
+    logfile.write("\n\n* * * * * *\nLogfile initialized " + today_long + "\n* * * * * *\n")
+    logfile.close()
 
-    return logfile
+    return logfile_name
+
 
 # Scan this computer's destination media to see what's already there
 def LoadBackupDriveDirectoryList(localbackupdrivemountpath):
@@ -232,7 +235,7 @@ def IdentifyBackedupDirectoriesNoLongerNeeded(source_directory_list, destination
 
     return returnlist
 
-def ReadConfigurationFile(configfileName, masterpath, filename_allpathstobackup, dryrun, agentinfo):
+def ReadConfigurationFile(configfileName):
 
     # Does file exist
     if not os.path.exists(configfileName):
@@ -244,8 +247,8 @@ def ReadConfigurationFile(configfileName, masterpath, filename_allpathstobackup,
     fileline = f.readline()
     while fileline:
         lineparts = fileline.split(':')
-        arg = lineparts[0].upper()
-        val0 = lineparts[1]
+        arg = lineparts[0].upper().replace("\"","")
+        val0 = lineparts[1].replace("\n", "").replace("\"","")
 
         agentpattern = r"^AGENT\d.*$"
 
@@ -253,14 +256,12 @@ def ReadConfigurationFile(configfileName, masterpath, filename_allpathstobackup,
         if len(lineparts) == 2:
             if arg == "DRYRUN":
                 dryrun = val0
-            elif arg == "LOCALSOURCEDRIVEMOUNTPATH":
-                localsourcedrivemountpath = val0
-            elif arg == "ALLFAILESTOBACKUPLIST":
-                filename_allpathstobackup = val0
-            elif arg == "MASTERPATH":
-                masterpath = val0
+            elif arg == "LISTOFALLFILESTOBACKUP":
+                listofallfilestobackup = val0
+            elif arg == "BACKUPAGENTSMOUNTPATH":
+                backupagentsmountpath = val0
         if len(lineparts) == 3:
-            val1 = lineparts[2]
+            val1 = lineparts[2].replace("\n", "").replace("\"", "")
             if re.match(agentpattern, arg):
                 agentinfo.append({'agentname': val0, 'agentbackupdevice': val1})
 
@@ -272,6 +273,8 @@ def ReadConfigurationFile(configfileName, masterpath, filename_allpathstobackup,
     elif len(agentinfo) > 4:
         raise Exception(r"Too many agents (>4) specified")
 
+    returnvals = [dryrun, listofallfilestobackup, backupagentsmountpath, agentinfo]
+    return returnvals
 
 def create_tobedone_files(inputfilename, agent):
 
@@ -282,7 +285,10 @@ def create_tobedone_files(inputfilename, agent):
 
     with open(inputfilename, encoding='latin-1') as file_input:
         for inputline in file_input:
-            match = re.search("^BackupDevice1\t(.*)\t\d+\t\d+$", inputline)
+
+            # Do a regex filter on files assigned to this agent
+            regexpression = "^{0}\t(.*)\t\d+\t\d+$".format(agent["agentname"])
+            match = re.search(regexpression, inputline)
             if not match is None:
                 print(match.group(1))
                 file_output.write(match.group(1) + "\n")
@@ -290,7 +296,7 @@ def create_tobedone_files(inputfilename, agent):
     file_output.close()
 
 
-def create_outputmedia_logfile(agent, mediafilename):
+def create_backupmedia_logfile(agent):
 
     mediapathname = agent["agentbackupdevice"]
     outputfilename = "{0}_media.txt".format(agent["agentname"])
@@ -300,15 +306,12 @@ def create_outputmedia_logfile(agent, mediafilename):
 
     command0 = "du {0} | sed 's/^[0-9]*\\t{2}//' | sort | tee {1}".format(mediapathname, outputfilename,
                                                                           mediapathname[:-1].replace('/','\\/'))
-    # command1 = r"du /media/dgraper/PATRIOT/ | sed 's/^[0-9]*\t\/media\/dgraper\/PATRIOT\///' | sort | tee BackupDevice1_media.txt"
-
     os.system(command0)
 
-    # command1 = "diff {0}_tobedone.txt BackupDevice1_media.txt -u | sed '/^+/!d' | sed 's/^+//' > BackupDevice1_filestodelete.sh".format(m)
+    # command1 = r"du /media/dgraper/PATRIOT/ | sed 's/^[0-9]*\t\/media\/dgraper\/PATRIOT\///' | sort | tee BackupDevice1_media.txt"
+    # command1 = "diff {0}_tobedone.txt BackupDevice1_media.txt -u | sed '/^+/!d' | sed 's/^+//' > BackupDevice1_directoriestodelete.sh".format(m)
 
-    mediafilename = outputfilename
-
-def removelinesfrommedialistingfile(filename, rootpathtoavoid, pathstoavoid):
+def removelinesfrommedialistingfile(agent, rootpathtoavoid, pathstoavoid):
 
     # Break down rootpath into component paths to avoid, add those to "pathstoavoid"
     rootpaths = rootpathtoavoid.split("/")
@@ -318,6 +321,8 @@ def removelinesfrommedialistingfile(filename, rootpathtoavoid, pathstoavoid):
     for rootpath in rootpaths:
         pathtoavoid += "/" + rootpath
         pathstoavoid.append(pathtoavoid)
+
+    filename = "{0}_media.txt".format(agent["agentname"])
 
     lines = []
     with open(filename, "r") as fp:
@@ -330,16 +335,31 @@ def removelinesfrommedialistingfile(filename, rootpathtoavoid, pathstoavoid):
                 fp.write(line + "\n")
 
 
-def create_filestodelete_shellfile(agent):
-    # command = r"diff {0}_tobedone.txt {0}_media.txt -u | sed '/^\+/!d' | sed 's/^\+//' | sed '/^\+/d' | sed 's/ /\\ /g' | sed 's/&/\\&/g' > {0}_filestodelete.sh".format(agent['agentname'])
-    command = r"diff {0}_tobedone.txt {0}_media.txt -u | sed '/^\+/!d' | sed 's/^\+//' | sed '/^\+/d' > {0}_filestodelete.sh".format(agent['agentname'])
+def create_directoriestodelete_shellfile(agent):
+
+    # Get differences between the list of directories to be backed up and directories currently on backup media drive
+    # command = r"diff {0}_tobedone.txt {0}_media.txt -u | sed '/^\+/!d' | sed 's/^\+//' > {0}_directoriestodelete.sh".format(agent['agentname'])
+    command = r"diff {0}_tobedone.txt {0}_media.txt -u > {0}_directoriestodelete.sh".format(agent['agentname'])
     os.system(command)
 
-    # Escape characters in shell file
+    filename ="{0}_directoriestodelete.sh".format(agent["agentname"])
     lines = []
 
-    filename ="BackupDevice1_filestodelete.sh"
+    # First, remove all lines that don't begin with a "+"
+    lines = []
+    with open(filename, "r") as fp:
+        for line in fp:
+            if line[:1] == "+":
+                line = line[2:]
+                lines.append(line)
 
+    with open(filename, "w") as fp:
+        for line in lines:
+            if line[:1] == "/":
+                fp.write(line)
+
+    # Next, properly escape all reserved characters
+    lines = []
     with open(filename, "r") as fp:
         for line in fp:
 
@@ -348,7 +368,7 @@ def create_filestodelete_shellfile(agent):
             line = line.replace("'","\\'")
             line = line.replace("(","\\(")
             line = line.replace(")","\\)")
-            line = "rm -rf /media/dgraper/PATRIOT" + line
+            line = "rm -rf {0}{1}".format(agent["agentbackupdevice"], line)
 
             lines.append(line)
 
@@ -361,10 +381,10 @@ def create_backup_shellfile(agent, fastbackup):
 
     lines = []
 
-    inputfilename ="BackupDevice1_tobedone.txt"
-    outputfilename = "BackupDevice1_backup.sh"
+    inputfilename ="{0}_tobedone.txt".format(agent["agentname"])
+    outputfilename = "{0}_backup.sh".format(agent["agentname"])
 
-    destinationdrive = "/media/dgraper/PATRIOT"
+    destinationdrive = agent["agentbackupdevice"]
 
     with open(outputfilename, "w") as fileout:
         with open(inputfilename, "r") as filein:
@@ -381,11 +401,33 @@ def create_backup_shellfile(agent, fastbackup):
                 else:
                     fileout.write("rsync -Rhvp {0}/* {1}\n".format(line.replace("\n",""), destinationdrive))
 
+
+def execute_backupmediacleanup(logfilename, agent):
+
+    today_long = datetime.today().strftime('%Y-%m-%d-%H:%M:%S')
+
+    # Initialize logfile
+    logfile = open(logfilename, "a")
+    logfile.write("\n\n* * * * * *\nStart cleanup of destination drive " + today_long + "\n* * * * * *\n")
+    logfile.close()
+
+    # pathname = "{0}_directoriestodelete.sh".format(agent["agentname"])
+    # os.chmod(pathname, stat.S_IRWXU or stat.S_IRWXG or stat.S_IRWXO)
+
+
+    command = "chmod 777 {0}_directoriestodelete.sh".format(agent["agentname"])
+    os.system(command)
+
+    command = "./{0}_directoriestodelete.sh | tee {1}".format(agent["agentname"], logfilename)
+    os.system(command)
+
+
+
 # Start
 if __name__ == '__main__':
 
     # CSV file containing all paths to backup and agents assigned to each (output from "BackupDistributor")
-    filename_allpathstobackup = ""
+    listofallfilestobackup = ""
 
     # List of agents that this computer represents as well as devices on this computer used for backups
     agentinfo = []
@@ -407,7 +449,6 @@ if __name__ == '__main__':
         print("Error on argument parser: {0}".format(e))
         exit()
 
-    masterpath = args.masterpath
     dryrun = args.dryrun
     configfile = args.configfile
     verbose = args.verbose
@@ -416,15 +457,18 @@ if __name__ == '__main__':
 
     # Check to see if config file exists; if so, it is source of all config info (command line arguments ignored)
     if configfile != "":
-        ReadConfigurationFile(configfile, masterpath, filename_allpathstobackup, dryrun, agentinfo)
+        returnvals = ReadConfigurationFile(configfile)
+
+        dryrun = returnvals[0]
+        listofallfilestobackup = returnvals[1]
+        backupagentsmountpath = returnvals[2]
+        agentinfo = returnvals[3]
     else:
         print("No config file specified")
         exit()
 
-    # DIAGNOSTIC - Use local file during debugging
-    filename_allpathstobackup = "backupjobdivisions.txt"
-
-    mediafilename = ""
+    # DIAGNOSTIC - Override and use local file during debugging
+    listofallfilestobackup = "backupjobdivisions.txt"
 
     # Handle multiple agents (if specified)
     for agent in agentinfo:
@@ -432,15 +476,11 @@ if __name__ == '__main__':
         # Extract lists of files to be backed up by each backup server
         # 1.  Create <BackupDeviceName>_tobedone.txt file for this agent
         # (the list of paths to be backed up by this agent)
-        create_tobedone_files(filename_allpathstobackup, agent)
+        create_tobedone_files(listofallfilestobackup, agent)
 
-        # DIAGNOSTIC - Use local device during debugging
-        agent["agentbackupdevice"]= "/media/dgraper/PATRIOT/"
-
-
-        # 2.  Create <BackupDeviceName>_media.txt which lists all directories
-        # currently on this agent's backup device
-        create_outputmedia_logfile(agent, mediafilename)
+        # 2.  Create <BackupDeviceName>_media.txt file which lists all directories currently on this device
+        # assigned to this backup agent
+        create_backupmedia_logfile(agent)
 
         # 3.  Remove all "root" directories from the <BackupDeviceName>_media.txt file. In the next
         # step we'll be comparing the directories on the _media.txt file with the list of directories to be backed
@@ -448,62 +488,65 @@ if __name__ == '__main__':
         # directories to be backed up.
         #
         # These are directories that will be removed before starting backups -- since they're not in the list of
-        # source directories, we want to save space and remove them from the destination drive.
+        # directories to be backed up, we want to save space and remove them from the destination drive.
         #
-        # We want to avoid leaving the source "root" directories in the media listing file.  If we leave them in,
-        # the root will be marked for cleanup on the destination media and it'll basically clear the whole thing
-        # out, requiring redundant re-backing up.
+        # We want to avoid leaving the source "root" directories in the media listing file because if we leave them in
+        # the root will be marked for cleanup, it'll basically clear the whole thing out, requiring a
+        # redundant re-backing up of all the files targeted for this agent.
 
         # These are fixed paths on the destination drive we know we don't want to remove
-        pathstoavoid = ['/System Volume Information', '/']
+        backupmediadrivepathstoavoid = ['/System Volume Information', '/']
 
-        # DIAGNOSTIC - For debugging
-        masterpath = "/home/dgraper/colossus_share0"
-        removelinesfrommedialistingfile(mediafilename,masterpath, pathstoavoid)
+        # Remove the root directories from the media listing file
+        removelinesfrommedialistingfile(agent, backupagentsmountpath, backupmediadrivepathstoavoid)
 
         # Create a shell file of files to delete
-        create_filestodelete_shellfile(agent)
+        create_directoriestodelete_shellfile(agent)
 
         # Modify the "to be done" file into a shell file
         create_backup_shellfile(agent, True)
 
         # Set up the local logfile that contains status messages
-        local_logfile = setuplocallogfile(agent)
+        local_logfilename = createlocallogfile(agent)
 
-        # Get directory paths from the masterlist for this agent to backup
-        directorypaths_to_backup = LoadSourceDirectoryList(filename_allpathstobackup, agent, local_logfile)
+        # Run directory cleanup
+        execute_backupmediacleanup(local_logfilename, agent)
 
-        # Get the directories currently on the backup drive
-        try:
-            destination_directory_list = LoadBackupDriveDirectoryList(agent["agentbackupdevice"])
-        except Exception as e:
-            print("Error on accessing the backup drive: {0}".format(e))
-            exit()
-
-        # Compare the directories currently on the backup drive with the paths this agent is supposed to back up
-        try:
-            extraneous_paths_list = IdentifyBackedupDirectoriesNoLongerNeeded(directorypaths_to_backup, destination_directory_list)
-        except Exception as e:
-            print("Error on identifying backed up directories no longer needed: {0}".format(e))
-            exit()
-
-        local_logfile.write("\n\nSystem will delete these paths on the backup drive before continuing:\n\n")
-        for string1 in extraneous_paths_list:
-            local_logfile.write("\t{0}\n".format(string1))
-
-        print("Dryrun = {0}".format(str(dryrun)))
-
-        if not dryrun:
-
-            # Remove extraneous directories from backup drive
-            RemoveDirectoriesNotToRsync(extraneous_paths_list, agent["agentbackupdevice"], local_logfile)
-
-            # Backup all source directories
-            for sourcepath in directorypaths_to_backup:
-                print("Rsyncing path '{0}'".format(sourcepath))
-                ExecuteRsyncBackup(sourcepath, agent["agentbackupdevice"], local_logfile)
-
-            local_logfile.write("\n* * * * * *\nEnding rsync task at " + str(datetime.now()) + "\n* * * * * *\n\n")
-        else:
-            local_logfile.write("\n* * * * * *\nEnding dryrun rsync task at " + str(datetime.now()) + "\n* * * * * *\n\n")
+        #
+        # # Get directory paths from the masterlist for this agent to backup
+        # directorypaths_to_backup = LoadSourceDirectoryList(listofallfilestobackup, agent, local_logfile)
+        #
+        # # Get the directories currently on the backup drive
+        # try:
+        #     destination_directory_list = LoadBackupDriveDirectoryList(agent["agentbackupdevice"])
+        # except Exception as e:
+        #     print("Error on accessing the backup drive: {0}".format(e))
+        #     exit()
+        #
+        # # Compare the directories currently on the backup drive with the paths this agent is supposed to back up
+        # try:
+        #     extraneous_paths_list = IdentifyBackedupDirectoriesNoLongerNeeded(directorypaths_to_backup, destination_directory_list)
+        # except Exception as e:
+        #     print("Error on identifying backed up directories no longer needed: {0}".format(e))
+        #     exit()
+        #
+        # local_logfile.write("\n\nSystem will delete these paths on the backup drive before continuing:\n\n")
+        # for string1 in extraneous_paths_list:
+        #     local_logfile.write("\t{0}\n".format(string1))
+        #
+        # print("Dryrun = {0}".format(str(dryrun)))
+        #
+        # if not dryrun:
+        #
+        #     # Remove extraneous directories from backup drive
+        #     RemoveDirectoriesNotToRsync(extraneous_paths_list, agent["agentbackupdevice"], local_logfile)
+        #
+        #     # Backup all source directories
+        #     for sourcepath in directorypaths_to_backup:
+        #         print("Rsyncing path '{0}'".format(sourcepath))
+        #         ExecuteRsyncBackup(sourcepath, agent["agentbackupdevice"], local_logfile)
+        #
+        #     local_logfile.write("\n* * * * * *\nEnding rsync task at " + str(datetime.now()) + "\n* * * * * *\n\n")
+        # else:
+        #     local_logfile.write("\n* * * * * *\nEnding dryrun rsync task at " + str(datetime.now()) + "\n* * * * * *\n\n")
 
