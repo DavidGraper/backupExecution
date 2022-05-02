@@ -422,6 +422,21 @@ def execute_backupmediacleanup(logfilename, agent):
     os.system(command)
 
 
+def execute_backup(logfilename, agent):
+
+    today_long = datetime.today().strftime('%Y-%m-%d-%H:%M:%S')
+
+    # Initialize logfile
+    logfile = open(logfilename, "a")
+    logfile.write("\n\n* * * * * *\nStart backup " + today_long + "\n* * * * * *\n")
+    logfile.close()
+
+    command = "chmod 777 {0}_backup.sh".format(agent["agentname"])
+    os.system(command)
+
+    command = "./{0}_backup.sh | tee {1}".format(agent["agentname"], logfilename)
+    os.system(command)
+
 
 # Start
 if __name__ == '__main__':
@@ -511,6 +526,9 @@ if __name__ == '__main__':
 
         # Run directory cleanup
         execute_backupmediacleanup(local_logfilename, agent)
+
+        # Run backups
+        execute_backup(local_logfilename, agent)
 
         #
         # # Get directory paths from the masterlist for this agent to backup
