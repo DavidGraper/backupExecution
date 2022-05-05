@@ -1,13 +1,13 @@
-0
-0/home
-0/home/dgraper
-0/home/dgraper/colossus_share0
-0/home/dgraper/colossus_share0/4kvid
-0/home/dgraper/colossus_share0/4kvid/031822
-0/home/dgraper/colossus_share0/Audio0
-0/home/dgraper/colossus_share0/Audio0/1920-30s Music
-0/home/dgraper/colossus_share0/Audio0/1920-30s Music/Fats Waller - Breakin' The Ice
-0/home/dgraper/colossus_share0/Audio0/1920-30s Music/Fats Waller - Breakin' The Ice/Disc 1
-0/Untitled Folder
-0/Untitled Folder 2
-0/Untitled Folder 3
+/home/dgraper/colossus_share0
+/home/dgraper/colossus_share0/4kvid
+/home/dgraper/colossus_share0/4kvid/031822
+/home/dgraper/colossus_share0/Access Workspace
+/home/dgraper/colossus_share0/Access Workspace/Untitled Folder
+/home/dgraper/colossus_share0/Audio0
+/home/dgraper/colossus_share0/Audio0/1920-30s Music
+/home/dgraper/colossus_share0/Audio0/1920-30s Music/Fats Waller - Breakin' The Ice
+/home/dgraper/colossus_share0/Audio0/1920-30s Music/Fats Waller - Breakin' The Ice/Disc 1
+/home/dgraper/colossus_share0/Chenlab990
+/home/dgraper/colossus_share0/Chenlab990/Untitled Folder
+/home/dgraper/colossus_share0/Untitled Folder
+/home/dgraper/colossus_share0/Untitled Folder 2

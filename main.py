@@ -304,9 +304,17 @@ def create_backupmedia_logfile(agent):
     command = "du {0} | tee {1}".format(mediapathname, outputfilename)
     os.system(command)
 
-    command0 = "du {0} | sed 's/^[0-9]*\\t{2}//' | sort | tee {1}".format(mediapathname, outputfilename,
-                                                                          mediapathname[:-1].replace('/','\\/'))
-    os.system(command0)
+    lines = []
+    with open(outputfilename, "r") as fp:
+        for line in fp:
+            lines.append(re.sub("^[0-9]*\t"+agent["agentbackupdevice"],"",line))
+
+    lines.sort()
+
+    with open(outputfilename, "w") as fp:
+        for line in lines:
+            if (line != "\n"):
+                fp.write(line)
 
     # command1 = r"du /media/dgraper/PATRIOT/ | sed 's/^[0-9]*\t\/media\/dgraper\/PATRIOT\///' | sort | tee BackupDevice1_media.txt"
     # command1 = "diff {0}_tobedone.txt BackupDevice1_media.txt -u | sed '/^+/!d' | sed 's/^+//' > BackupDevice1_directoriestodelete.sh".format(m)
@@ -349,14 +357,13 @@ def create_directoriestodelete_shellfile(agent):
     lines = []
     with open(filename, "r") as fp:
         for line in fp:
-            if line[:1] == "+":
-                line = line[2:]
+            if line[:2] == "+/":
+                line = line[1:]
                 lines.append(line)
 
     with open(filename, "w") as fp:
         for line in lines:
-            if line[:1] == "/":
-                fp.write(line)
+            fp.write(line)
 
     # Next, properly escape all reserved characters
     lines = []
@@ -483,7 +490,7 @@ if __name__ == '__main__':
         exit()
 
     # DIAGNOSTIC - Override and use local file during debugging
-    listofallfilestobackup = "backupjobdivisions.txt"
+    listofallfilestobackup = "/home/dgraper/Documents/backupjobdivisions.txt"
 
     # Handle multiple agents (if specified)
     for agent in agentinfo:

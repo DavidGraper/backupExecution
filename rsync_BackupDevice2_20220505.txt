@@ -1,0 +1,95 @@
+/home/
+/home/dgraper/
+/home/dgraper/colossus_share0/
+/home/dgraper/colossus_share0/Django and Other Videos/
+/home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous/
+/home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous/Django apache webserver setup.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous/Python Django Crash Course.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous/Python Django Tutorial 2020 - Full Course for Beginners.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous/Python Django Web Framework - Full Course for Beginners.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous/Top 50 Django Interview Questions and Answers   Django Developer Interview Questions   Edureka.mp4
+
+sent 4.10G bytes  received 126 bytes  9.82M bytes/sec
+total size is 4.10G  speedup is 1.00
+/home/
+/home/dgraper/
+/home/dgraper/colossus_share0/
+/home/dgraper/colossus_share0/Django and Other Videos/
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/01  Django (2.0) An Introduction for Beginners.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/02 The Basics of Django Models.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/03  How Model Queries Work in Django (2).mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/03  How Model Queries Work in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/04  Use Django to Create a Todo List App.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/05  Creating Forms From Models in Django With ModelForm.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/06  Deploy a Django App to Python Anywhere.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/07  Django Authentication Basics.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/08  Passing Values Through the URL in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/09  Querying One-To-Many Relationships in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/10  The Date Filter in Django Templates.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/11  Getting Started With Django REST Framework.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/12  Django REST Framework Model Relationships.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/13  How to Use Django REST Framework Permissions.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/14  JSON Web Tokens With Django REST Framework.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/15  How to Use a Postgres Database in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/16  Creating a Weather App in Django Using Python Requests [Part 1].mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/17  Using the Django LoginView.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/18  Sending Emails in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/19  Basics of Django Aggregation.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/20  Intro to Django's Annotate.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/21  The Model View Permission in Django 2.1.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/22  Working with Numbers and Dates Using Django Humanize.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/23  A Quick Intro to Model Formsets in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/24  How to Use the ifchanged Template Tag in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/25  Using the Inline Form Set Factory in Django (Part 1 of 2).mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/26  Useful Inline Form Set Options in Django (Part 2 of 2).mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/27  Creating a Diary App in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/28  Order By in Django Queries The Basics.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/29  Using Django Model Field Lookups.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/30  Understanding Django Model Relationships.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/31  Connect to a MongoDB in Django Using Djongo.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/32  Extend Your Django User Framework With a One To One Field.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/33  Intro to Class-Based Views in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/34  Using Django in a Standalone Script.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/35  Accessing Request Headers in Django 2.2.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/36  How to Use an HTML5 Date Input With Django Forms.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/37  Django Custom Form Field Validation.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/38  Tracking Apps Errors in Django With Sentry.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/39  Updating the Django Weather App [Part 2].mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/4-Django Allauth Twitter  Authentication with Postgres.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/40  Return JSON Data in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/41  Django Example App YouTube Search With YouTube Data API.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/42  How to Install and Use Django on Windows for Beginners (2019).mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/43  Intro to Django Messages.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/44  The Basics of Django ListView.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/45  Adding Links to Views in Django Templates.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/46  Sending Emails in Django With Celery.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/47  A Quick Intro to Translation in Django (Internationalization).mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/48  Creating a Poll App in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/49  Using Django Widget Tweaks to Easily Modify Form Field HTML Attributes.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/50  How to Export CSV Files From Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/51  How to Copy Django Model Instance Objects.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/52  How to Install and Use Django on Windows for Beginners (2020).mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/53  How to Use the Related Name Attribute in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/54  Creating a Custom Save Method in Django Models.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/55  Adding Extra Fields On Many-To-Many Relationships in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/56  How to Create Custom Commands in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/58  How to Use a Database Connection URL in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/59  How to Create a Celery Task Progress Bar in Django.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/60  Accepting Payments in Django Using Stripe Checkout.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/61  How to Paginate Django Query Results.mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/62  Using the JSONField in Django.mp4
+
+sent 2.40G bytes  received 1.23K bytes  7.52M bytes/sec
+total size is 2.40G  speedup is 1.00
+/home/
+/home/dgraper/
+/home/dgraper/colossus_share0/
+/home/dgraper/colossus_share0/Django and Other Videos/
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Red Eyed Coder Club/
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Red Eyed Coder Club/#1 Django project structure   Python Django 3 tutorial (2020).mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Red Eyed Coder Club/#10 Django Delete record from database   Python Django 3 tutorial (2020).mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Red Eyed Coder Club/#11 Django CSS usage   Python Django 3 tutorial (2020).mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Red Eyed Coder Club/#12 Django Basics of access control (restrictions)   Python Django tutorial (2020).mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Red Eyed Coder Club/#13 Django Pagination with Bootstrap 4   Python Django 3 tutorial (2020).mp4
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Red Eyed Coder Club/#14 Django Search   Python Django 3 tutorial (2020).mp4
