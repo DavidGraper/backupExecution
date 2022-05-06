@@ -604,3 +604,4 @@ rsync -Rhvp --ignore-existing /home/dgraper/colossus_share0/Django\ and\ Other\ 
 rsync -Rhvp --ignore-existing /home/dgraper/colossus_share0/Django\ and\ Other\ Videos/091520/* /media/dgraper/PATRIOT0
 rsync -Rhvp --ignore-existing /home/dgraper/colossus_share0/Django\ and\ Other\ Videos/Django\ -\ Corey\ Schaefer/* /media/dgraper/PATRIOT0
 rsync -Rhvp --ignore-existing /home/dgraper/colossus_share0/Django\ and\ Other\ Videos/Django\ -\ Dennis\ Ivy/* /media/dgraper/PATRIOT0
+rsync -Rhvp --ignore-existing /home/dgraper/colossus_share0/Django\ and\ Other\ Videos/Django\ Miscellaneous/* /media/dgraper/PATRIOT0

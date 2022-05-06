@@ -284,10 +284,16 @@ def create_tobedone_files(inputfilename, agent):
     file_output = open("{0}_tobedone.txt".format(agent["agentname"]), "w", encoding='latin-1')
 
     with open(inputfilename, encoding='latin-1') as file_input:
+
+        # Diagnostic
+        file_output.write("/home/dgraper/colossus_share0\n")
+        file_output.write("/home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous\n")
+
         for inputline in file_input:
 
             # Do a regex filter on files assigned to this agent
             regexpression = "^{0}\t(.*)\t\d+\t\d+$".format(agent["agentname"])
+
             match = re.search(regexpression, inputline)
             if not match is None:
                 print(match.group(1))
@@ -343,27 +349,70 @@ def removelinesfrommedialistingfile(agent, rootpathtoavoid, pathstoavoid):
                 fp.write(line + "\n")
 
 
+def sortfileinplace(filename):
+
+    command = "sort {0} -u > temp.txt".format(filename)
+    os.system(command)
+
+    command = "mv temp.txt {0}".format(filename)
+    os.system(command)
+
+
+    # lines = []
+    # lexographicallysortedlines = []
+    #
+    #
+    # with open(filename, "r") as fp:
+    #     for line in fp:
+    #         lines.append(line)
+    #
+    # lines.sort()
+    #
+    # for line in sorted(lines, key=str.lower):
+    #     lexographicallysortedlines.append(line)
+    #
+    # with open(filename, "w") as fp:
+    #     for line in lexographicallysortedlines:
+    #         fp.write(line)
+
+
 def create_directoriestodelete_shellfile(agent):
+
+    sortfileinplace("{0}_tobedone.txt".format(agent['agentname']))
+    sortfileinplace("{0}_media.txt".format(agent['agentname']))
+    #
+    # command = "sort -o {0} temp.txt".format(tobedonefilename)
+    # os.system(command)
+    #
+    # command = "cat temp.txt > {0}".format(tobedonefilename)
+    # os.system(command)
+    #
+    # command = "sort -o {0} temp.txt".format(mediafilename)
+    # os.system(command)
+    #
+    # command = "cat temp.txt > {0}".format(mediafilename)
+    # os.system(command)
 
     # Get differences between the list of directories to be backed up and directories currently on backup media drive
     # command = r"diff {0}_tobedone.txt {0}_media.txt -u | sed '/^\+/!d' | sed 's/^\+//' > {0}_directoriestodelete.sh".format(agent['agentname'])
-    command = r"diff {0}_tobedone.txt {0}_media.txt -u > {0}_directoriestodelete.sh".format(agent['agentname'])
+    # command = r"diff {0}_tobedone.txt {0}_media.txt -u > {0}_directoriestodelete.sh".format(agent['agentname'])
+    command = r"comm -13 {0}_tobedone.txt {0}_media.txt > {0}_directoriestodelete.sh".format(agent['agentname'])
     os.system(command)
 
     filename ="{0}_directoriestodelete.sh".format(agent["agentname"])
     lines = []
-
-    # First, remove all lines that don't begin with a "+"
-    lines = []
-    with open(filename, "r") as fp:
-        for line in fp:
-            if line[:2] == "+/":
-                line = line[1:]
-                lines.append(line)
-
-    with open(filename, "w") as fp:
-        for line in lines:
-            fp.write(line)
+    #
+    # # First, remove all lines that don't begin with a "+"
+    # lines = []
+    # with open(filename, "r") as fp:
+    #     for line in fp:
+    #         if line[:2] == "+/":
+    #             line = line[1:]
+    #             lines.append(line)
+    #
+    # with open(filename, "w") as fp:
+    #     for line in lines:
+    #         fp.write(line)
 
     # Next, properly escape all reserved characters
     lines = []
@@ -527,6 +576,8 @@ if __name__ == '__main__':
 
         # Modify the "to be done" file into a shell file
         create_backup_shellfile(agent, True)
+
+    for agent in agentinfo:
 
         # Set up the local logfile that contains status messages
         local_logfilename = createlocallogfile(agent)

@@ -604,3 +604,4 @@
 /home/dgraper/colossus_share0/Django and Other Videos/091520
 /home/dgraper/colossus_share0/Django and Other Videos/Django - Corey Schaefer
 /home/dgraper/colossus_share0/Django and Other Videos/Django - Dennis Ivy
+/home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous

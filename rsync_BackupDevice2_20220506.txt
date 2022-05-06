@@ -9,7 +9,7 @@
 /home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous/Python Django Web Framework - Full Course for Beginners.mp4
 /home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous/Top 50 Django Interview Questions and Answers   Django Developer Interview Questions   Edureka.mp4
 
-sent 4.10G bytes  received 126 bytes  10.01M bytes/sec
+sent 4.10G bytes  received 126 bytes  17.12M bytes/sec
 total size is 4.10G  speedup is 1.00
 /home/
 /home/dgraper/
@@ -80,7 +80,7 @@ total size is 4.10G  speedup is 1.00
 /home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/61  How to Paginate Django Query Results.mp4
 /home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed/62  Using the JSONField in Django.mp4
 
-sent 2.40G bytes  received 1.23K bytes  7.57M bytes/sec
+sent 2.40G bytes  received 1.23K bytes  13.02M bytes/sec
 total size is 2.40G  speedup is 1.00
 /home/
 /home/dgraper/
@@ -103,7 +103,7 @@ total size is 2.40G  speedup is 1.00
 /home/dgraper/colossus_share0/Django and Other Videos/Django - Red Eyed Coder Club/#9 Django Update model with form   Python Django 3 tutorial (2020).mp4
 /home/dgraper/colossus_share0/Django and Other Videos/Django - Red Eyed Coder Club/Python Django 3 Tutorial #0 Demo   Python Django 3 tutorial (2020).mp4
 
-sent 507.67M bytes  received 316 bytes  7.41M bytes/sec
+sent 507.67M bytes  received 316 bytes  12.23M bytes/sec
 total size is 507.54M  speedup is 1.00
 /home/
 /home/dgraper/
@@ -126,7 +126,7 @@ total size is 507.54M  speedup is 1.00
 /home/dgraper/colossus_share0/Django and Other Videos/Django - Yogi Coder/Table Sorting And More Using DataTables and Django 2.0.mp4
 /home/dgraper/colossus_share0/Django and Other Videos/Django - Yogi Coder/VsCode  (Visual Studio Code) Tips Tricks.mp4
 
-sent 584.92M bytes  received 316 bytes  7.65M bytes/sec
+sent 584.92M bytes  received 316 bytes  12.58M bytes/sec
 total size is 584.77M  speedup is 1.00
 /home/
 /home/dgraper/
@@ -145,7 +145,7 @@ total size is 584.77M  speedup is 1.00
 /home/dgraper/colossus_share0/Django and Other Videos/Raspberry Pi/Raspberry Pi Headless Setup - All You Need To Know.mp4
 /home/dgraper/colossus_share0/Django and Other Videos/Raspberry Pi/Raspberry Pi Zero W Surveillance Camera.mp4
 
-sent 2.47G bytes  received 240 bytes  7.54M bytes/sec
+sent 2.47G bytes  received 240 bytes  13.16M bytes/sec
 total size is 2.47G  speedup is 1.00
 /home/
 /home/dgraper/
@@ -155,7 +155,7 @@ total size is 2.47G  speedup is 1.00
 /home/dgraper/colossus_share0/Django and Other Videos/SSH/Beginners Guide To SSH.mp4
 /home/dgraper/colossus_share0/Django and Other Videos/SSH/SSH Tunneling Explained.mp4
 
-sent 43.11M bytes  received 69 bytes  6.63M bytes/sec
+sent 43.11M bytes  received 69 bytes  12.32M bytes/sec
 total size is 43.10M  speedup is 1.00
 /home/
 /home/dgraper/
@@ -211,7 +211,7 @@ total size is 43.10M  speedup is 1.00
 /home/dgraper/colossus_share0/Django and Other Videos/Try DJANGO/Try DJANGO Tutorial - 46 - Raw Delete Class Based View.mp4
 /home/dgraper/colossus_share0/Django and Other Videos/Try DJANGO/Try DJANGO Tutorial - 47 - Custom Mixin for Class Based Views.mp4
 
-sent 649.60M bytes  received 943 bytes  7.42M bytes/sec
+sent 649.60M bytes  received 943 bytes  13.39M bytes/sec
 total size is 649.44M  speedup is 1.00
 /home/
 /home/dgraper/
@@ -220,7 +220,7 @@ total size is 649.44M  speedup is 1.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/3D Objects/
 /home/dgraper/colossus_share0/HChen Laptop 092320/3D Objects/desktop.ini
 
-sent 549 bytes  received 50 bytes  1.20K bytes/sec
+sent 550 bytes  received 50 bytes  1.20K bytes/sec
 total size is 298  speedup is 0.50
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow
@@ -257,7 +257,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel/CUIPromotions/Config/Current.json
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel/CUIPromotions/Config/status.cst
 
-sent 1.34K bytes  received 81 bytes  2.85K bytes/sec
+sent 1.35K bytes  received 81 bytes  2.85K bytes/sec
 total size is 932  speedup is 0.65
 /home/
 /home/dgraper/
@@ -271,7 +271,7 @@ total size is 932  speedup is 0.65
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel/CUIPromotions/Images/000000.ept
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel/CUIPromotions/Images/000000_INTEL.ODYSSEY_ADDITIONAL_GAMEPLAY_ASSET_CUI.2.3-600x300.png
 
-sent 230.31K bytes  received 81 bytes  153.60K bytes/sec
+sent 230.32K bytes  received 81 bytes  460.79K bytes/sec
 total size is 229.81K  speedup is 1.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -291,7 +291,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel/Games/Common/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel/Games/Common/status.cst
 
-sent 373 bytes  received 62 bytes  870.00 bytes/sec
+sent 374 bytes  received 62 bytes  872.00 bytes/sec
 total size is 38  speedup is 0.09
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft
 
@@ -384,7 +384,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/CryptnetUrlCache/Content/F4074DC7CF6EB7B3B2C5CD4870E3DCEB
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/CryptnetUrlCache/Content/FB0D848F74F70BB2EAA93746D24D9749
 
-sent 242.06K bytes  received 1.30K bytes  486.71K bytes/sec
+sent 242.06K bytes  received 1.30K bytes  162.24K bytes/sec
 total size is 234.61K  speedup is 0.96
 /home/
 /home/dgraper/
@@ -462,7 +462,7 @@ total size is 234.61K  speedup is 0.96
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/CryptnetUrlCache/MetaData/F4074DC7CF6EB7B3B2C5CD4870E3DCEB
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/CryptnetUrlCache/MetaData/FB0D848F74F70BB2EAA93746D24D9749
 
-sent 34.52K bytes  received 1.30K bytes  23.87K bytes/sec
+sent 34.52K bytes  received 1.30K bytes  71.63K bytes/sec
 total size is 27.08K  speedup is 0.76
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/EdpDomStore
@@ -488,7 +488,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/container.dat
 
-sent 356 bytes  received 62 bytes  836.00 bytes/sec
+sent 357 bytes  received 62 bytes  838.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -502,7 +502,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/6SOAZC0K/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/6SOAZC0K/www.msn[1].xml
 
-sent 1.52K bytes  received 65 bytes  3.16K bytes/sec
+sent 1.52K bytes  received 65 bytes  3.17K bytes/sec
 total size is 1.13K  speedup is 0.71
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -519,7 +519,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/FDNOAP4Y/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/FDNOAP4Y/support.office[1].xml
 
-sent 3.25K bytes  received 65 bytes  6.64K bytes/sec
+sent 3.26K bytes  received 65 bytes  6.64K bytes/sec
 total size is 2.86K  speedup is 0.86
 /home/
 /home/dgraper/
@@ -533,7 +533,7 @@ total size is 2.86K  speedup is 0.86
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/RTZP7CDJ/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/RTZP7CDJ/www.microsoft[1].xml
 
-sent 405 bytes  received 65 bytes  940.00 bytes/sec
+sent 406 bytes  received 65 bytes  942.00 bytes/sec
 total size is 13  speedup is 0.03
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -549,7 +549,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/EmieSiteList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/EmieSiteList/container.dat
 
-sent 361 bytes  received 62 bytes  846.00 bytes/sec
+sent 362 bytes  received 62 bytes  848.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -562,7 +562,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/EmieUserList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/EmieUserList/container.dat
 
-sent 361 bytes  received 62 bytes  846.00 bytes/sec
+sent 362 bytes  received 62 bytes  848.00 bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -587,7 +587,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Windows/AppCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Windows/AppCache/container.dat
 
-sent 346 bytes  received 62 bytes  816.00 bytes/sec
+sent 347 bytes  received 62 bytes  818.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -601,7 +601,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Windows/AppCache/QY1C6OLN/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Windows/AppCache/QY1C6OLN/container.dat
 
-sent 370 bytes  received 65 bytes  870.00 bytes/sec
+sent 371 bytes  received 65 bytes  872.00 bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -737,7 +737,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Credentials/FF2B435571F012447B812E4F21E1A6F9
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Credentials/FF5081302B76515FEC57DB8B08DDCEEB
 
-sent 305.21K bytes  received 2.19K bytes  614.80K bytes/sec
+sent 305.21K bytes  received 2.19K bytes  204.93K bytes/sec
 total size is 294.81K  speedup is 0.96
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers
 
@@ -763,7 +763,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_DNTException/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_DNTException/container.dat
 
-sent 381 bytes  received 62 bytes  886.00 bytes/sec
+sent 382 bytes  received 62 bytes  888.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -776,7 +776,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_EmieSiteList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_EmieSiteList/container.dat
 
-sent 382 bytes  received 62 bytes  888.00 bytes/sec
+sent 383 bytes  received 62 bytes  890.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -789,7 +789,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_EmieUserList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_EmieUserList/container.dat
 
-sent 382 bytes  received 62 bytes  888.00 bytes/sec
+sent 383 bytes  received 62 bytes  890.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -803,7 +803,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_iecompat/IECompatData.xml
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_iecompat/container.dat
 
-sent 66.04K bytes  received 81 bytes  44.08K bytes/sec
+sent 66.04K bytes  received 81 bytes  132.24K bytes/sec
 total size is 65.57K  speedup is 0.99
 /home/
 /home/dgraper/
@@ -816,7 +816,7 @@ total size is 65.57K  speedup is 0.99
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_iecompatua/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_iecompatua/container.dat
 
-sent 381 bytes  received 62 bytes  886.00 bytes/sec
+sent 382 bytes  received 62 bytes  888.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -829,7 +829,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_ieflipahead/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_ieflipahead/container.dat
 
-sent 381 bytes  received 62 bytes  886.00 bytes/sec
+sent 382 bytes  received 62 bytes  888.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Feeds Cache/7P9NS6U7
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Feeds Cache/EUF62MXK
@@ -845,7 +845,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Feeds Cache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Feeds Cache/container.dat
 
-sent 326 bytes  received 59 bytes  770.00 bytes/sec
+sent 327 bytes  received 59 bytes  772.00 bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -867,7 +867,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Feeds Cache/T6OIKS6A/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Feeds Cache/T6OIKS6A/ieonlinews.microsoft[1]
 
-sent 360 bytes  received 62 bytes  844.00 bytes/sec
+sent 361 bytes  received 62 bytes  846.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/EmieSiteList
@@ -891,7 +891,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore/container.dat
 
-sent 360 bytes  received 62 bytes  844.00 bytes/sec
+sent 361 bytes  received 62 bytes  846.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -905,7 +905,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore/9ABXTZ2G/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore/9ABXTZ2G/workflow.licenses.adobe[1].xml
 
-sent 762 bytes  received 65 bytes  1.65K bytes/sec
+sent 763 bytes  received 65 bytes  1.66K bytes/sec
 total size is 357  speedup is 0.43
 /home/
 /home/dgraper/
@@ -919,7 +919,7 @@ total size is 357  speedup is 0.43
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore/ESVB6GIT/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore/ESVB6GIT/api-bf620061.duosecurity[1].xml
 
-sent 497 bytes  received 65 bytes  1.12K bytes/sec
+sent 498 bytes  received 65 bytes  1.13K bytes/sec
 total size is 91  speedup is 0.16
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -936,7 +936,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore/I38BY5FG/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore/I38BY5FG/adobeid-na1.services.adobe[1].xml
 
-sent 764 bytes  received 65 bytes  1.66K bytes/sec
+sent 765 bytes  received 65 bytes  1.66K bytes/sec
 total size is 357  speedup is 0.43
 /home/
 /home/dgraper/
@@ -949,7 +949,7 @@ total size is 357  speedup is 0.43
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/EmieSiteList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/EmieSiteList/container.dat
 
-sent 364 bytes  received 62 bytes  852.00 bytes/sec
+sent 365 bytes  received 62 bytes  854.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -962,7 +962,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/EmieUserList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/EmieUserList/container.dat
 
-sent 364 bytes  received 62 bytes  852.00 bytes/sec
+sent 365 bytes  received 62 bytes  854.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -975,7 +975,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/IEFlipAheadCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/IEFlipAheadCache/container.dat
 
-sent 366 bytes  received 62 bytes  856.00 bytes/sec
+sent 367 bytes  received 62 bytes  858.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/TokenBroker/Cache
 
@@ -992,7 +992,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/TokenBroker/Cache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/TokenBroker/Cache/5475cb191e478c39370a215b2da98a37e9dc813d.tbres
 
-sent 2.85K bytes  received 62 bytes  5.81K bytes/sec
+sent 2.85K bytes  received 62 bytes  5.82K bytes/sec
 total size is 2.46K  speedup is 0.85
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/AppCache
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/Application Shortcuts
@@ -1025,7 +1025,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/UsrClass.dat{8cfe19e4-2542-11e9-86dc-d481d7871db2}.TMContainer00000000000000000002.regtrans-ms
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WebCacheLock.dat
 
-sent 5.61M bytes  received 230 bytes  2.25M bytes/sec
+sent 5.61M bytes  received 230 bytes  1.60M bytes/sec
 total size is 5.61M  speedup is 1.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/AppCache/9FAB8ISA
 /home/
@@ -1039,7 +1039,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/AppCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/AppCache/container.dat
 
-sent 350 bytes  received 62 bytes  824.00 bytes/sec
+sent 351 bytes  received 62 bytes  826.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1053,7 +1053,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/AppCache/9FAB8ISA/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/AppCache/9FAB8ISA/container.dat
 
-sent 373 bytes  received 65 bytes  876.00 bytes/sec
+sent 374 bytes  received 65 bytes  878.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1066,7 +1066,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/Application Shortcuts/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/Application Shortcuts/desktop.ini
 
-sent 539 bytes  received 62 bytes  1.20K bytes/sec
+sent 540 bytes  received 62 bytes  1.20K bytes/sec
 total size is 174  speedup is 0.29
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/WindowsApps/Microsoft.MicrosoftEdge_8wekyb3d8bbwe
 
@@ -1091,8 +1091,8 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/Burn/Burn/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/Burn/Burn/desktop.ini
 
-sent 545 bytes  received 65 bytes  1.22K bytes/sec
-total size is 174  speedup is 0.29
+sent 546 bytes  received 65 bytes  1.22K bytes/sec
+total size is 174  speedup is 0.28
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/Low
 /home/
@@ -1106,7 +1106,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/desktop.ini
 
-sent 480 bytes  received 62 bytes  1.08K bytes/sec
+sent 481 bytes  received 62 bytes  1.09K bytes/sec
 total size is 130  speedup is 0.24
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019052020190527
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019052920190530
@@ -1129,7 +1129,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/container.dat
 
-sent 374 bytes  received 65 bytes  878.00 bytes/sec
+sent 375 bytes  received 65 bytes  880.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1144,7 +1144,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019052020190527/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019052020190527/container.dat
 
-sent 419 bytes  received 68 bytes  974.00 bytes/sec
+sent 420 bytes  received 68 bytes  976.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1159,7 +1159,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019052920190530/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019052920190530/container.dat
 
-sent 413 bytes  received 68 bytes  962.00 bytes/sec
+sent 414 bytes  received 68 bytes  321.33 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1174,7 +1174,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019082620190902/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019082620190902/container.dat
 
-sent 414 bytes  received 68 bytes  964.00 bytes/sec
+sent 415 bytes  received 68 bytes  966.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1189,7 +1189,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019090420190905/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019090420190905/container.dat
 
-sent 414 bytes  received 68 bytes  964.00 bytes/sec
+sent 415 bytes  received 68 bytes  966.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1204,7 +1204,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020083120200907/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020083120200907/container.dat
 
-sent 414 bytes  received 68 bytes  964.00 bytes/sec
+sent 415 bytes  received 68 bytes  966.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1219,7 +1219,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020090720200914/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020090720200914/container.dat
 
-sent 413 bytes  received 68 bytes  962.00 bytes/sec
+sent 414 bytes  received 68 bytes  964.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1234,7 +1234,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020091420200921/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020091420200921/container.dat
 
-sent 414 bytes  received 68 bytes  964.00 bytes/sec
+sent 415 bytes  received 68 bytes  966.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1249,7 +1249,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020092120200922/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020092120200922/container.dat
 
-sent 413 bytes  received 68 bytes  962.00 bytes/sec
+sent 414 bytes  received 68 bytes  964.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1264,7 +1264,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020092220200923/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020092220200923/container.dat
 
-sent 414 bytes  received 68 bytes  964.00 bytes/sec
+sent 415 bytes  received 68 bytes  966.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/Low/History.IE5
 
@@ -1283,7 +1283,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/Low/History.IE5/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/Low/History.IE5/container.dat
 
-sent 392 bytes  received 68 bytes  920.00 bytes/sec
+sent 393 bytes  received 68 bytes  922.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatCache/Low
 /home/
@@ -1297,7 +1297,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatCache/container.dat
 
-sent 356 bytes  received 62 bytes  836.00 bytes/sec
+sent 357 bytes  received 62 bytes  838.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1311,7 +1311,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatCache/Low/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatCache/Low/container.dat
 
-sent 375 bytes  received 65 bytes  880.00 bytes/sec
+sent 376 bytes  received 65 bytes  882.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatUaCache/Low
 /home/
@@ -1325,7 +1325,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatUaCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatUaCache/container.dat
 
-sent 358 bytes  received 62 bytes  840.00 bytes/sec
+sent 359 bytes  received 62 bytes  842.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1339,7 +1339,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatUaCache/Low/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatUaCache/Low/container.dat
 
-sent 377 bytes  received 65 bytes  884.00 bytes/sec
+sent 378 bytes  received 65 bytes  886.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -1352,7 +1352,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IEDownloadHistory/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IEDownloadHistory/container.dat
 
-sent 359 bytes  received 62 bytes  842.00 bytes/sec
+sent 360 bytes  received 62 bytes  844.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Content.MSO
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Content.Word
@@ -1463,7 +1463,7 @@ total size is 3.16M  speedup is 1.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Content.Word/~WRS{F47F9965-3393-48BD-A786-741C34509546}.tmp
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Content.Word/~WRS{F8B4F82F-0BAC-447E-84AF-9A60933FFB0D}.tmp
 
-sent 701.53K bytes  received 1.15K bytes  1.41M bytes/sec
+sent 701.53K bytes  received 1.15K bytes  468.45K bytes/sec
 total size is 695.40K  speedup is 0.99
 /home/
 /home/dgraper/
@@ -1477,7 +1477,7 @@ total size is 695.40K  speedup is 0.99
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/IE/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/IE/container.dat
 
-sent 374 bytes  received 65 bytes  878.00 bytes/sec
+sent 375 bytes  received 65 bytes  880.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Low/IE
 /home/
@@ -1494,7 +1494,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Low/SmartScreenCache.dat
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Low/SuggestedSites.dat
 
-sent 5.42M bytes  received 103 bytes  10.83M bytes/sec
+sent 5.42M bytes  received 103 bytes  3.61M bytes/sec
 total size is 5.42M  speedup is 1.00
 /home/
 /home/dgraper/
@@ -1509,7 +1509,7 @@ total size is 5.42M  speedup is 1.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Low/IE/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Low/IE/container.dat
 
-sent 388 bytes  received 68 bytes  912.00 bytes/sec
+sent 389 bytes  received 68 bytes  914.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Virtualized/C
 
@@ -1593,7 +1593,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/container.dat
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/deprecated.cookie
 
-sent 517 bytes  received 81 bytes  1.20K bytes/sec
+sent 518 bytes  received 81 bytes  1.20K bytes/sec
 total size is 91  speedup is 0.15
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/DNTException/Low
 /home/
@@ -1608,7 +1608,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/DNTException/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/DNTException/container.dat
 
-sent 381 bytes  received 65 bytes  892.00 bytes/sec
+sent 382 bytes  received 65 bytes  894.00 bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -1625,7 +1625,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/ESE/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/ESE/container.dat
 
-sent 372 bytes  received 65 bytes  874.00 bytes/sec
+sent 373 bytes  received 65 bytes  876.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/Low/ESE
 
@@ -1644,7 +1644,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/Low/ESE/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/Low/ESE/container.dat
 
-sent 391 bytes  received 68 bytes  918.00 bytes/sec
+sent 392 bytes  received 68 bytes  920.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/PrivacIE/Low
 
@@ -1676,7 +1676,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WebCache/WebCacheV01.dat
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WebCache/WebCacheV01.jfm
 
-sent 62.43M bytes  received 233 bytes  11.35M bytes/sec
+sent 62.43M bytes  received 233 bytes  17.84M bytes/sec
 total size is 62.41M  speedup is 1.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WinX/Group1
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WinX/Group2
@@ -1696,7 +1696,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WinX/Group1/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WinX/Group1/desktop.ini
 
-sent 453 bytes  received 65 bytes  345.33 bytes/sec
+sent 454 bytes  received 65 bytes  1.04K bytes/sec
 total size is 75  speedup is 0.14
 /home/
 /home/dgraper/
@@ -1710,7 +1710,7 @@ total size is 75  speedup is 0.14
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WinX/Group2/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WinX/Group2/desktop.ini
 
-sent 703 bytes  received 65 bytes  1.54K bytes/sec
+sent 704 bytes  received 65 bytes  1.54K bytes/sec
 total size is 325  speedup is 0.42
 /home/
 /home/dgraper/
@@ -1872,7 +1872,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/AC/INetCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/AC/INetCache/container.dat
 
-sent 390 bytes  received 65 bytes  910.00 bytes/sec
+sent 391 bytes  received 65 bytes  912.00 bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -1909,7 +1909,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/AC/Microsoft/CryptnetUrlCache/Content/77EC63BDA74BD0D0E0426DC8F8008506
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/AC/Microsoft/CryptnetUrlCache/Content/FB0D848F74F70BB2EAA93746D24D9749
 
-sent 3.00K bytes  received 185 bytes  6.37K bytes/sec
+sent 3.00K bytes  received 185 bytes  6.38K bytes/sec
 total size is 1.88K  speedup is 0.59
 /home/
 /home/dgraper/
@@ -1945,7 +1945,7 @@ total size is 2.61K  speedup is 0.66
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/Settings/settings.dat.LOG2
 
-sent 41.38K bytes  received 81 bytes  82.93K bytes/sec
+sent 41.39K bytes  received 81 bytes  82.93K bytes/sec
 total size is 40.96K  speedup is 0.99
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy/AC
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy/Settings
@@ -2026,7 +2026,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/AppCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/AppCache/container.dat
 
-sent 403 bytes  received 65 bytes  936.00 bytes/sec
+sent 404 bytes  received 65 bytes  938.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -2041,7 +2041,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/AppCache/AD24JK48/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/AppCache/AD24JK48/container.dat
 
-sent 427 bytes  received 68 bytes  990.00 bytes/sec
+sent 428 bytes  received 68 bytes  992.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -2070,7 +2070,7 @@ total size is 16.38K  speedup is 0.97
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/INetCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/INetCache/container.dat
 
-sent 406 bytes  received 65 bytes  942.00 bytes/sec
+sent 407 bytes  received 65 bytes  944.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -2084,7 +2084,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/INetCookies/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/INetCookies/container.dat
 
-sent 407 bytes  received 65 bytes  944.00 bytes/sec
+sent 408 bytes  received 65 bytes  946.00 bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -2101,7 +2101,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/Settings/settings.dat.LOG2
 
-sent 16.83K bytes  received 81 bytes  11.28K bytes/sec
+sent 16.83K bytes  received 81 bytes  33.83K bytes/sec
 total size is 16.38K  speedup is 0.97
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy/AC
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy/Settings
@@ -2271,7 +2271,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.AccountsControl_cw5n1h2txyewy/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.AccountsControl_cw5n1h2txyewy/Settings/settings.dat.LOG2
 
-sent 8.63K bytes  received 81 bytes  17.42K bytes/sec
+sent 8.63K bytes  received 81 bytes  17.43K bytes/sec
 total size is 8.19K  speedup is 0.94
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.AsyncTextService_8wekyb3d8bbwe/AC
 
@@ -2426,7 +2426,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.GetHelp_8wekyb3d8bbwe/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.GetHelp_8wekyb3d8bbwe/Settings/settings.dat.LOG2
 
-sent 8.62K bytes  received 81 bytes  17.40K bytes/sec
+sent 8.62K bytes  received 81 bytes  17.41K bytes/sec
 total size is 8.19K  speedup is 0.94
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.LanguageExperiencePackzh-cn_8wekyb3d8bbwe/AC
 
@@ -2573,7 +2573,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft/CryptnetUrlCache/Content/FB0D848F74F70BB2EAA93746D24D9749
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft/CryptnetUrlCache/Content/FC5A820A001B41D68902E051F36A5282_DB6B376BB0B592E98E83473F656BC99E
 
-sent 102.17K bytes  received 663 bytes  68.56K bytes/sec
+sent 102.17K bytes  received 663 bytes  205.67K bytes/sec
 total size is 98.36K  speedup is 0.96
 /home/
 /home/dgraper/
@@ -2643,7 +2643,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft/Crypto/Keys/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft/Crypto/Keys/f1431475ccded65ffad2e60fe34e72de_f2fc4160-e845-42ae-adec-3bc6f7149796_b0bc3a164e948b85431b618f623663fa
 
-sent 1.91K bytes  received 74 bytes  3.97K bytes/sec
+sent 1.91K bytes  received 74 bytes  3.98K bytes/sec
 total size is 1.35K  speedup is 0.68
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft/Crypto/RSA/S-1-5-21-375655340-1700474455-5522801-35196
 
@@ -2676,7 +2676,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/Cache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/Cache/container.dat
 
-sent 451 bytes  received 71 bytes  1.04K bytes/sec
+sent 452 bytes  received 71 bytes  1.05K bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -2695,7 +2695,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/History/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/History/container.dat
 
-sent 454 bytes  received 71 bytes  1.05K bytes/sec
+sent 455 bytes  received 71 bytes  1.05K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -2711,7 +2711,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/IECompatCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/IECompatCache/container.dat
 
-sent 459 bytes  received 71 bytes  1.06K bytes/sec
+sent 460 bytes  received 71 bytes  1.06K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -2727,7 +2727,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/IECompatUaCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/IECompatUaCache/container.dat
 
-sent 461 bytes  received 71 bytes  1.06K bytes/sec
+sent 462 bytes  received 71 bytes  1.07K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -2743,7 +2743,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/IEFlipAheadCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/IEFlipAheadCache/container.dat
 
-sent 463 bytes  received 71 bytes  1.07K bytes/sec
+sent 464 bytes  received 71 bytes  1.07K bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default
 
@@ -2773,7 +2773,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/AppCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/AppCache/container.dat
 
-sent 503 bytes  received 77 bytes  1.16K bytes/sec
+sent 504 bytes  received 77 bytes  1.16K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -2792,7 +2792,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/AppCache/5IMEIQ6B/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/AppCache/5IMEIQ6B/container.dat
 
-sent 527 bytes  received 80 bytes  1.21K bytes/sec
+sent 528 bytes  received 80 bytes  1.22K bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/DOMStore/4VAATDGG
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/DOMStore/J95LLWGK
@@ -2814,7 +2814,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/DOMStore/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/DOMStore/container.dat
 
-sent 503 bytes  received 77 bytes  1.16K bytes/sec
+sent 500 bytes  received 77 bytes  384.67 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -2877,7 +2877,7 @@ total size is 105.72K  speedup is 0.98
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/DOMStore/J95LLWGK/www.msn[1].xml
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/DOMStore/J95LLWGK/www.roblox[1].xml
 
-sent 96.83K bytes  received 308 bytes  194.28K bytes/sec
+sent 96.83K bytes  received 308 bytes  194.29K bytes/sec
 total size is 95.29K  speedup is 0.98
 /home/
 /home/dgraper/
@@ -2958,7 +2958,7 @@ total size is 28.32K  speedup is 0.94
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/EmieSiteList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/EmieSiteList/container.dat
 
-sent 508 bytes  received 77 bytes  1.17K bytes/sec
+sent 509 bytes  received 77 bytes  1.17K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -2976,7 +2976,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/EmieUserList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/EmieUserList/container.dat
 
-sent 508 bytes  received 77 bytes  1.17K bytes/sec
+sent 509 bytes  received 77 bytes  1.17K bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft/SystemCertificates/My
 
@@ -3061,7 +3061,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/Microsoft/CryptnetUrlCache/Content/FC5A820A001B41D68902E051F36A5282_BA709FB2A52AA1C224B0955BEAD6D07D
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/Microsoft/CryptnetUrlCache/Content/FC5A820A001B41D68902E051F36A5282_BAF845799CDC55065D2E0C5AC7A2142E
 
-sent 38.61K bytes  received 511 bytes  78.23K bytes/sec
+sent 38.61K bytes  received 511 bytes  78.24K bytes/sec
 total size is 35.70K  speedup is 0.91
 /home/
 /home/dgraper/
@@ -3101,7 +3101,7 @@ total size is 35.70K  speedup is 0.91
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/Microsoft/CryptnetUrlCache/MetaData/FC5A820A001B41D68902E051F36A5282_BA709FB2A52AA1C224B0955BEAD6D07D
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/Microsoft/CryptnetUrlCache/MetaData/FC5A820A001B41D68902E051F36A5282_BAF845799CDC55065D2E0C5AC7A2142E
 
-sent 12.03K bytes  received 511 bytes  8.36K bytes/sec
+sent 12.03K bytes  received 511 bytes  25.09K bytes/sec
 total size is 9.15K  speedup is 0.73
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/Cache
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/Cookies
@@ -3126,7 +3126,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/Cache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/Cache/container.dat
 
-sent 453 bytes  received 71 bytes  1.05K bytes/sec
+sent 454 bytes  received 71 bytes  1.05K bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -3145,7 +3145,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/History/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/History/container.dat
 
-sent 454 bytes  received 71 bytes  1.05K bytes/sec
+sent 455 bytes  received 71 bytes  1.05K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3161,7 +3161,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/IECompatCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/IECompatCache/container.dat
 
-sent 461 bytes  received 71 bytes  1.06K bytes/sec
+sent 462 bytes  received 71 bytes  1.07K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3177,7 +3177,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/IECompatUaCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/IECompatUaCache/container.dat
 
-sent 463 bytes  received 71 bytes  1.07K bytes/sec
+sent 464 bytes  received 71 bytes  1.07K bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default
 
@@ -3207,7 +3207,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/container.dat
 
-sent 506 bytes  received 77 bytes  1.17K bytes/sec
+sent 507 bytes  received 77 bytes  1.17K bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/M77D5AT6/2
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/M77D5AT6/7
@@ -3228,7 +3228,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/M77D5AT6/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/M77D5AT6/container.dat
 
-sent 530 bytes  received 80 bytes  1.22K bytes/sec
+sent 531 bytes  received 80 bytes  1.22K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3253,7 +3253,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/M77D5AT6/2/kernel-d988dd20[1].css
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/M77D5AT6/2/ntp[1].htm
 
-sent 568.01K bytes  received 178 bytes  1.14M bytes/sec
+sent 568.01K bytes  received 178 bytes  378.79K bytes/sec
 total size is 566.99K  speedup is 1.00
 /home/
 /home/dgraper/
@@ -3290,7 +3290,7 @@ total size is 566.99K  speedup is 1.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/M77D5AT6/7/soXU7pl_ZWool1bQ85iUfVPG8PE[1].js
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/M77D5AT6/7/uYQCywCMT-CfdvXQSAltgsZL-jU[1].js
 
-sent 742.15K bytes  received 406 bytes  1.49M bytes/sec
+sent 742.15K bytes  received 406 bytes  495.04K bytes/sec
 total size is 739.98K  speedup is 1.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/DOMStore/6PNA9UJN
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/DOMStore/IRY1LN50
@@ -3312,7 +3312,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/DOMStore/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/DOMStore/container.dat
 
-sent 501 bytes  received 77 bytes  1.16K bytes/sec
+sent 502 bytes  received 77 bytes  1.16K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3353,7 +3353,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/DOMStore/SNEE9AZ4/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/DOMStore/SNEE9AZ4/www.bing[1].xml
 
-sent 940 bytes  received 80 bytes  2.04K bytes/sec
+sent 941 bytes  received 80 bytes  2.04K bytes/sec
 total size is 410  speedup is 0.40
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -3374,7 +3374,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/EmieSiteList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/EmieSiteList/container.dat
 
-sent 505 bytes  received 77 bytes  1.16K bytes/sec
+sent 506 bytes  received 77 bytes  1.17K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3392,7 +3392,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/EmieUserList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/EmieUserList/container.dat
 
-sent 506 bytes  received 77 bytes  1.17K bytes/sec
+sent 507 bytes  received 77 bytes  1.17K bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/INetCache
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/INetCookies
@@ -3434,7 +3434,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/Cache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/Cache/container.dat
 
-sent 454 bytes  received 71 bytes  1.05K bytes/sec
+sent 455 bytes  received 71 bytes  1.05K bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -3453,7 +3453,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/History/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/History/container.dat
 
-sent 456 bytes  received 71 bytes  1.05K bytes/sec
+sent 457 bytes  received 71 bytes  1.06K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3469,7 +3469,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/IECompatCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/IECompatCache/container.dat
 
-sent 461 bytes  received 71 bytes  1.06K bytes/sec
+sent 462 bytes  received 71 bytes  1.07K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3485,7 +3485,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/IECompatUaCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/IECompatUaCache/container.dat
 
-sent 464 bytes  received 71 bytes  1.07K bytes/sec
+sent 465 bytes  received 71 bytes  1.07K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3501,7 +3501,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/IEFlipAheadCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/IEFlipAheadCache/container.dat
 
-sent 465 bytes  received 71 bytes  1.07K bytes/sec
+sent 466 bytes  received 71 bytes  1.07K bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/User/Default
 
@@ -3528,7 +3528,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/User/Default/EmieSiteList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/User/Default/EmieSiteList/container.dat
 
-sent 503 bytes  received 77 bytes  1.16K bytes/sec
+sent 504 bytes  received 77 bytes  1.16K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3546,7 +3546,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/User/Default/EmieUserList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/User/Default/EmieUserList/container.dat
 
-sent 503 bytes  received 77 bytes  1.16K bytes/sec
+sent 504 bytes  received 77 bytes  1.16K bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!006/INetCache
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!006/INetCookies
@@ -3561,7 +3561,7 @@ total size is 0  speedup is 0.00
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
 total size is 0  speedup is 0.00
 
-sent 16 bytes  received 12 bytes  18.67 bytes/sec
+sent 16 bytes  received 12 bytes  56.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/INetCache
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/INetCookies
@@ -3603,7 +3603,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/Cache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/Cache/container.dat
 
-sent 452 bytes  received 71 bytes  1.05K bytes/sec
+sent 453 bytes  received 71 bytes  1.05K bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -3622,7 +3622,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/History/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/History/container.dat
 
-sent 454 bytes  received 71 bytes  1.05K bytes/sec
+sent 455 bytes  received 71 bytes  1.05K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3638,7 +3638,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/IECompatCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/IECompatCache/container.dat
 
-sent 459 bytes  received 71 bytes  1.06K bytes/sec
+sent 460 bytes  received 71 bytes  1.06K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3654,7 +3654,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/IECompatUaCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/IECompatUaCache/container.dat
 
-sent 461 bytes  received 71 bytes  1.06K bytes/sec
+sent 462 bytes  received 71 bytes  1.07K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3670,7 +3670,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/IEFlipAheadCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/IEFlipAheadCache/container.dat
 
-sent 464 bytes  received 71 bytes  1.07K bytes/sec
+sent 465 bytes  received 71 bytes  1.07K bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/User/Default
 
@@ -3697,7 +3697,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/User/Default/EmieSiteList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/User/Default/EmieSiteList/container.dat
 
-sent 509 bytes  received 77 bytes  1.17K bytes/sec
+sent 510 bytes  received 77 bytes  1.17K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3715,7 +3715,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/User/Default/EmieUserList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/User/Default/EmieUserList/container.dat
 
-sent 509 bytes  received 77 bytes  1.17K bytes/sec
+sent 510 bytes  received 77 bytes  1.17K bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -3756,7 +3756,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/Microsoft/CryptnetUrlCache/Content/77EC63BDA74BD0D0E0426DC8F8008506
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/Microsoft/CryptnetUrlCache/Content/FB0D848F74F70BB2EAA93746D24D9749
 
-sent 77.37K bytes  received 185 bytes  155.11K bytes/sec
+sent 77.37K bytes  received 185 bytes  155.12K bytes/sec
 total size is 76.27K  speedup is 0.98
 /home/
 /home/dgraper/
@@ -3778,7 +3778,7 @@ total size is 76.27K  speedup is 0.98
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/Microsoft/CryptnetUrlCache/MetaData/77EC63BDA74BD0D0E0426DC8F8008506
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/Microsoft/CryptnetUrlCache/MetaData/FB0D848F74F70BB2EAA93746D24D9749
 
-sent 3.83K bytes  received 185 bytes  8.02K bytes/sec
+sent 3.83K bytes  received 185 bytes  8.03K bytes/sec
 total size is 2.74K  speedup is 0.68
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/Cache
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/Cookies
@@ -3803,7 +3803,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/Cache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/Cache/container.dat
 
-sent 433 bytes  received 68 bytes  1.00K bytes/sec
+sent 434 bytes  received 68 bytes  1.00K bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -3821,7 +3821,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/History/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/History/container.dat
 
-sent 434 bytes  received 68 bytes  1.00K bytes/sec
+sent 435 bytes  received 68 bytes  1.01K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3836,7 +3836,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/IECompatCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/IECompatCache/container.dat
 
-sent 441 bytes  received 68 bytes  1.02K bytes/sec
+sent 442 bytes  received 68 bytes  1.02K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3851,7 +3851,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/IECompatUaCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/IECompatUaCache/container.dat
 
-sent 443 bytes  received 68 bytes  1.02K bytes/sec
+sent 444 bytes  received 68 bytes  1.02K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3866,7 +3866,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/IEFlipAheadCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/IEFlipAheadCache/container.dat
 
-sent 443 bytes  received 68 bytes  1.02K bytes/sec
+sent 444 bytes  received 68 bytes  1.02K bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default
 
@@ -3894,7 +3894,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/DNTException/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/DNTException/container.dat
 
-sent 488 bytes  received 74 bytes  1.12K bytes/sec
+sent 489 bytes  received 74 bytes  1.13K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3911,7 +3911,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/DownloadHistory/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/DownloadHistory/container.dat
 
-sent 492 bytes  received 74 bytes  1.13K bytes/sec
+sent 493 bytes  received 74 bytes  1.13K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3928,7 +3928,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/EmieSiteList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/EmieSiteList/container.dat
 
-sent 489 bytes  received 74 bytes  1.13K bytes/sec
+sent 490 bytes  received 74 bytes  1.13K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -3945,7 +3945,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/EmieUserList/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/EmieUserList/container.dat
 
-sent 489 bytes  received 74 bytes  1.13K bytes/sec
+sent 490 bytes  received 74 bytes  1.13K bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/Microsoft/SystemCertificates/My
 
@@ -4031,7 +4031,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe/Settings/settings.dat.LOG2
 
-sent 8.64K bytes  received 81 bytes  17.43K bytes/sec
+sent 8.64K bytes  received 81 bytes  17.44K bytes/sec
 total size is 8.19K  speedup is 0.94
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.NET.Native.Framework.1.7_8wekyb3d8bbwe/AC
 
@@ -4539,7 +4539,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy/Settings/settings.dat.LOG2
 
-sent 8.64K bytes  received 81 bytes  17.45K bytes/sec
+sent 8.65K bytes  received 81 bytes  17.45K bytes/sec
 total size is 8.19K  speedup is 0.94
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.WindowsCalculator_8wekyb3d8bbwe/AC
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.WindowsCalculator_8wekyb3d8bbwe/Settings
@@ -4652,7 +4652,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/INetCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/INetCache/container.dat
 
-sent 420 bytes  received 65 bytes  970.00 bytes/sec
+sent 421 bytes  received 65 bytes  972.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/INetCookies/ESE
 
@@ -4671,7 +4671,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/INetCookies/ESE/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/INetCookies/ESE/container.dat
 
-sent 441 bytes  received 68 bytes  1.02K bytes/sec
+sent 442 bytes  received 68 bytes  1.02K bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -4703,7 +4703,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/Microsoft/CryptnetUrlCache/Content/82CB34DD3343FE727DF8890D352E0D8F
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/Microsoft/CryptnetUrlCache/Content/FB0D848F74F70BB2EAA93746D24D9749
 
-sent 77.19K bytes  received 147 bytes  154.67K bytes/sec
+sent 77.19K bytes  received 147 bytes  154.68K bytes/sec
 total size is 76.29K  speedup is 0.99
 /home/
 /home/dgraper/
@@ -4723,7 +4723,7 @@ total size is 76.29K  speedup is 0.99
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/Microsoft/CryptnetUrlCache/MetaData/82CB34DD3343FE727DF8890D352E0D8F
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/Microsoft/CryptnetUrlCache/MetaData/FB0D848F74F70BB2EAA93746D24D9749
 
-sent 2.55K bytes  received 147 bytes  5.40K bytes/sec
+sent 2.56K bytes  received 147 bytes  5.40K bytes/sec
 total size is 1.67K  speedup is 0.62
 /home/
 /home/dgraper/
@@ -4737,7 +4737,7 @@ total size is 1.67K  speedup is 0.62
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/Settings/settings.dat.LOG2
 
-sent 45.51K bytes  received 81 bytes  91.19K bytes/sec
+sent 45.52K bytes  received 81 bytes  91.19K bytes/sec
 total size is 45.06K  speedup is 0.99
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/Settings
@@ -4765,7 +4765,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/AppCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/AppCache/container.dat
 
-sent 405 bytes  received 65 bytes  940.00 bytes/sec
+sent 406 bytes  received 65 bytes  942.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/AppCache/5KZ2P9E3/2
 /home/
@@ -4781,7 +4781,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/AppCache/5KZ2P9E3/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/AppCache/5KZ2P9E3/container.dat
 
-sent 429 bytes  received 68 bytes  994.00 bytes/sec
+sent 430 bytes  received 68 bytes  996.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -4824,7 +4824,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/AppCache/5KZ2P9E3/2/appcache[1].man
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/AppCache/5KZ2P9E3/2/container.dat
 
-sent 1.99M bytes  received 584 bytes  3.99M bytes/sec
+sent 1.99M bytes  received 584 bytes  1.33M bytes/sec
 total size is 1.99M  speedup is 1.00
 /home/
 /home/dgraper/
@@ -4838,7 +4838,7 @@ total size is 1.99M  speedup is 1.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/INetCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/INetCache/container.dat
 
-sent 405 bytes  received 65 bytes  940.00 bytes/sec
+sent 406 bytes  received 65 bytes  942.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/INetCookies/ESE
 
@@ -4857,7 +4857,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/INetCookies/ESE/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/INetCookies/ESE/container.dat
 
-sent 427 bytes  received 68 bytes  990.00 bytes/sec
+sent 428 bytes  received 68 bytes  992.00 bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -4888,7 +4888,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/Microsoft/Internet Explorer/DOMStore/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/Microsoft/Internet Explorer/DOMStore/container.dat
 
-sent 463 bytes  received 71 bytes  1.07K bytes/sec
+sent 464 bytes  received 71 bytes  1.07K bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -4905,7 +4905,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/Microsoft/Internet Explorer/DOMStore/0AZEHC20/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/Microsoft/Internet Explorer/DOMStore/0AZEHC20/microsoft.windows[1].xml
 
-sent 599 bytes  received 74 bytes  1.35K bytes/sec
+sent 600 bytes  received 74 bytes  1.35K bytes/sec
 total size is 97  speedup is 0.14
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -5030,7 +5030,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy/Settings/settings.dat.LOG2
 
-sent 8.64K bytes  received 81 bytes  17.45K bytes/sec
+sent 8.65K bytes  received 81 bytes  17.45K bytes/sec
 total size is 8.19K  speedup is 0.94
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ParentalControls_cw5n1h2txyewy/AC
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ParentalControls_cw5n1h2txyewy/Settings
@@ -5124,7 +5124,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/INetCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/INetCache/container.dat
 
-sent 403 bytes  received 65 bytes  936.00 bytes/sec
+sent 404 bytes  received 65 bytes  938.00 bytes/sec
 total size is 0  speedup is 0.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/INetCookies/ESE
 
@@ -5143,7 +5143,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/INetCookies/ESE/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/INetCookies/ESE/container.dat
 
-sent 425 bytes  received 68 bytes  986.00 bytes/sec
+sent 426 bytes  received 68 bytes  988.00 bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -5235,7 +5235,7 @@ total size is 856  speedup is 0.57
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/Settings/settings.dat.LOG2
 
-sent 186.84K bytes  received 81 bytes  373.84K bytes/sec
+sent 186.84K bytes  received 81 bytes  373.85K bytes/sec
 total size is 186.37K  speedup is 1.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy/AC
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy/Settings
@@ -5303,7 +5303,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.SecHealthUI_cw5n1h2txyewy/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.SecHealthUI_cw5n1h2txyewy/Settings/settings.dat.LOG2
 
-sent 8.63K bytes  received 81 bytes  17.43K bytes/sec
+sent 8.64K bytes  received 81 bytes  17.43K bytes/sec
 total size is 8.19K  speedup is 0.94
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy/AC
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy/Settings
@@ -5364,7 +5364,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy/AC/GEH/POF.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy/AC/GEH/POF.dat.LOG2
 
-sent 16.84K bytes  received 84 bytes  33.85K bytes/sec
+sent 16.84K bytes  received 84 bytes  33.86K bytes/sec
 total size is 16.38K  speedup is 0.97
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -5387,7 +5387,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy/Settings/settings.dat.LOG2
 
-sent 131.54K bytes  received 81 bytes  263.24K bytes/sec
+sent 131.54K bytes  received 81 bytes  263.25K bytes/sec
 total size is 131.07K  speedup is 1.00
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.XboxGameCallableUI_cw5n1h2txyewy/AC
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.XboxGameCallableUI_cw5n1h2txyewy/Settings
@@ -5569,7 +5569,7 @@ skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Loc
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows_ie_ac_001/AC/AppCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows_ie_ac_001/AC/AppCache/container.dat
 
-sent 383 bytes  received 65 bytes  896.00 bytes/sec
+sent 384 bytes  received 65 bytes  898.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -5584,7 +5584,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows_ie_ac_001/AC/AppCache/01T1FM71/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows_ie_ac_001/AC/AppCache/01T1FM71/container.dat
 
-sent 407 bytes  received 68 bytes  950.00 bytes/sec
+sent 408 bytes  received 68 bytes  952.00 bytes/sec
 total size is 0  speedup is 0.00
 /home/
 /home/dgraper/
@@ -5598,7 +5598,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows_ie_ac_001/AC/INetCache/
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows_ie_ac_001/AC/INetCache/container.dat
 
-sent 383 bytes  received 65 bytes  896.00 bytes/sec
+sent 384 bytes  received 65 bytes  898.00 bytes/sec
 total size is 0  speedup is 0.00
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
@@ -5622,7 +5622,7 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows.immersivecontrolpanel_cw5n1h2txyewy/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows.immersivecontrolpanel_cw5n1h2txyewy/Settings/settings.dat.LOG2
 
-sent 8.63K bytes  received 81 bytes  17.43K bytes/sec
+sent 8.64K bytes  received 81 bytes  17.43K bytes/sec
 total size is 8.19K  speedup is 0.94
 skipping directory /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Windows.PrintDialog_cw5n1h2txyewy/Settings
 
@@ -5640,23 +5640,10 @@ total size is 0  speedup is 0.00
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Windows.PrintDialog_cw5n1h2txyewy/Settings/settings.dat.LOG1
 /home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Windows.PrintDialog_cw5n1h2txyewy/Settings/settings.dat.LOG2
 
-sent 8.62K bytes  received 81 bytes  17.41K bytes/sec
+sent 8.63K bytes  received 81 bytes  17.41K bytes/sec
 total size is 8.19K  speedup is 0.94
 skipping directory /home/dgraper/colossus_share0/Ing Nang 110520/Ing Nang Ghost Image Latitude
 skipping directory /home/dgraper/colossus_share0/Ing Nang 110520/Kodak CD
-
-sent 16 bytes  received 12 bytes  56.00 bytes/sec
-total size is 0  speedup is 0.00
-/home/
-/home/dgraper/
-/home/dgraper/colossus_share0/
-/home/dgraper/colossus_share0/Ing Nang 110520/
-/home/dgraper/colossus_share0/Ing Nang 110520/Ing Nang Ghost Image Latitude/
-/home/dgraper/colossus_share0/Ing Nang 110520/Ing Nang Ghost Image Latitude/ingnang.GHO
-/home/dgraper/colossus_share0/Ing Nang 110520/Ing Nang Ghost Image Latitude/ingnang001.ghs
-/home/dgraper/colossus_share0/Ing Nang 110520/Ing Nang Ghost Image Latitude/ingnang002.ghs
-skipping directory /home/dgraper/colossus_share0/Lnenicka Bug Machine 100120/C Drive
-skipping directory /home/dgraper/colossus_share0/Lnenicka Bug Machine 100120/D Drive
 
 sent 16 bytes  received 12 bytes  56.00 bytes/sec
 total size is 0  speedup is 0.00
