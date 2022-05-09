@@ -1,7 +1,0 @@
-BackupDevice1	/home/dgraper/colossus_share0	0	0
-BackupDevice1	/home/dgraper/colossus_share0/4kvid	0	0
-BackupDevice1	/home/dgraper/colossus_share0/4kvid/031822	0	0
-BackupDevice1	/home/dgraper/colossus_share0/Access Workspace  58069504	58069504
-BackupDevice1	/home/dgraper/colossus_share0/Audio0    0   0
-BackupDevice1	/home/dgraper/colossus_share0/Audio0/1920-30s Music/Fats Waller - Breakin' The Ice	0	205003776
-BackupDevice1	/home/dgraper/colossus_share0/Audio0/1920-30s Music/Fats Waller - Breakin' The Ice/Disc 1	65555200	270558976

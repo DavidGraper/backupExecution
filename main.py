@@ -278,28 +278,47 @@ def ReadConfigurationFile(configfileName):
 
 def create_tobedone_files(inputfilename, agent):
 
+    returnfirstline = ""
+
+    backupdevicename = agent["agentname"]
+
     # Read the full "backupjobdivisions.txt" file and pull out only lines belonging to this agent,
     # save to another text file ("tobedone.txt" file)
 
-    file_output = open("{0}_tobedone.txt".format(agent["agentname"]), "w", encoding='latin-1')
+    file_output = open("{0}_tobedone.txt".format(backupdevicename), "w", encoding='latin-1')
 
     with open(inputfilename, encoding='latin-1') as file_input:
 
-        # Diagnostic
-        file_output.write("/home/dgraper/colossus_share0\n")
-        file_output.write("/home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous\n")
+        # # Diagnostic
+        # file_output.write("/home/dgraper/colossus_share0\n")
+        # file_output.write("/home/dgraper/colossus_share0/Django and Other Videos\n")
 
         for inputline in file_input:
 
-            # Do a regex filter on files assigned to this agent
-            regexpression = "^{0}\t(.*)\t\d+\t\d+$".format(agent["agentname"])
+            lineparts = inputline.split("\t")
 
-            match = re.search(regexpression, inputline)
-            if not match is None:
-                print(match.group(1))
-                file_output.write(match.group(1) + "\n")
+            if lineparts[0] == backupdevicename:
+
+                path = lineparts[1]
+
+                # # Do a regex filter on files assigned to this agent
+                # # regexpression = "^{0}\t(.*)\t\d+\t\d+$".format(agent["agentname"])
+                # regexpression = "^{0}\t(.*)\t.*\t.*$".format(agent["agentname"])
+                #
+                # match = re.search(regexpression, inputline)
+                # if not match is None:
+                #     print(match.group(1))
+                file_output.write(path + "\n")
+                # else:
+                #     print("FAIL")
+                #     file_output.write(inputline + "\n")
+                #     print(inputline)
+
+                if returnfirstline == "":
+                    returnfirstline = path
 
     file_output.close()
+    return returnfirstline
 
 
 def create_backupmedia_logfile(agent):
@@ -325,16 +344,18 @@ def create_backupmedia_logfile(agent):
     # command1 = r"du /media/dgraper/PATRIOT/ | sed 's/^[0-9]*\t\/media\/dgraper\/PATRIOT\///' | sort | tee BackupDevice1_media.txt"
     # command1 = "diff {0}_tobedone.txt BackupDevice1_media.txt -u | sed '/^+/!d' | sed 's/^+//' > BackupDevice1_directoriestodelete.sh".format(m)
 
-def removelinesfrommedialistingfile(agent, rootpathtoavoid, pathstoavoid):
+def removelinesfrommedialistingfile(agent, tobedonefirstline, pathstoavoid):
 
-    # Break down rootpath into component paths to avoid, add those to "pathstoavoid"
-    rootpaths = rootpathtoavoid.split("/")
-    del rootpaths[0]
+    # Break down media first line into component paths to avoid, add those to "pathstoavoid"
+    tobedonerootpaths = tobedonefirstline.split("/")
+    del tobedonerootpaths[0]
 
-    pathtoavoid = ""
-    for rootpath in rootpaths:
-        pathtoavoid += "/" + rootpath
-        pathstoavoid.append(pathtoavoid)
+    pathtoremove = ""
+    for tobedonerootpath in tobedonerootpaths:
+        pathtoremove += "/" + tobedonerootpath
+        pathstoavoid.append(pathtoremove)
+
+    del pathstoavoid[len(pathstoavoid)-1]
 
     filename = "{0}_media.txt".format(agent["agentname"])
 
@@ -547,29 +568,19 @@ if __name__ == '__main__':
         # Extract lists of files to be backed up by each backup server
         # 1.  Create <BackupDeviceName>_tobedone.txt file for this agent
         # (the list of paths to be backed up by this agent)
-        create_tobedone_files(listofallfilestobackup, agent)
+        tobedonefirstline = create_tobedone_files(listofallfilestobackup, agent)
 
         # 2.  Create <BackupDeviceName>_media.txt file which lists all directories currently on this device
         # assigned to this backup agent
         create_backupmedia_logfile(agent)
 
-        # 3.  Remove all "root" directories from the <BackupDeviceName>_media.txt file. In the next
-        # step we'll be comparing the directories on the _media.txt file with the list of directories to be backed
-        # up, seeking "extraneous" directories in the _media.txt file that don't have matches in the list of
-        # directories to be backed up.
-        #
-        # These are directories that will be removed before starting backups -- since they're not in the list of
-        # directories to be backed up, we want to save space and remove them from the destination drive.
-        #
-        # We want to avoid leaving the source "root" directories in the media listing file because if we leave them in
-        # the root will be marked for cleanup, it'll basically clear the whole thing out, requiring a
-        # redundant re-backing up of all the files targeted for this agent.
-
-        # These are fixed paths on the destination drive we know we don't want to remove
+        # 3.  Get the first line of this agent's "media" file
+        # (e.g., "/home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous")
+        # and break it down into its treewalked components ("/home", "/home/dgraper", "home/dgraper/colossus_share0")
+        # and remove each of those paths from the "media" file.  This prevents the root directories of the first
+        # directory to be backed up from being included in directories to delete before starting backups.
         backupmediadrivepathstoavoid = ['/System Volume Information', '/']
-
-        # Remove the root directories from the media listing file
-        removelinesfrommedialistingfile(agent, backupagentsmountpath, backupmediadrivepathstoavoid)
+        removelinesfrommedialistingfile(agent, tobedonefirstline, backupmediadrivepathstoavoid)
 
         # Create a shell file of files to delete
         create_directoriestodelete_shellfile(agent)
