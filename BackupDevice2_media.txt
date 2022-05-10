@@ -1,0 +1,692 @@
+/home/dgraper/colossus_share0/Music/Bach - St. John's Passion
+/home/dgraper/colossus_share0/Music/Django Web Development
+/home/dgraper/colossus_share0/Music/Mendelssohn-Elias-Herreweghe
+/home/dgraper/colossus_share0/Music/Mendelssohn-Elias-Herreweghe/Mendelssohn - Elias - Herreweghe
+/home/dgraper/colossus_share0/Music/Mendelssohn-Elias-Herreweghe/Mendelssohn - Elias - Herreweghe/CD1
+/home/dgraper/colossus_share0/Music/Mendelssohn-Elias-Herreweghe/Mendelssohn - Elias - Herreweghe/CD2
+/home/dgraper/colossus_share0/mybook_1220
+/home/dgraper/colossus_share0/mybook_1220/DriveKey
+/home/dgraper/colossus_share0/mybook_1220/hashcheck
+/home/dgraper/colossus_share0/mybook_1220/hla
+/home/dgraper/colossus_share0/mybook_1220/hla/hlalib
+/home/dgraper/colossus_share0/mybook_1220/hla/include
+/home/dgraper/colossus_share0/mybook_1220/hla/include/os
+/home/dgraper/colossus_share0/mybook_1220/Intel
+/home/dgraper/colossus_share0/mybook_1220/Intel/Logs
+/home/dgraper/colossus_share0/mybook_1220/mp3DirectCut
+/home/dgraper/colossus_share0/mybook_1220/mp3DirectCut/Languages
+/home/dgraper/colossus_share0/mybook_1220/My Music
+/home/dgraper/colossus_share0/mybook_1220/My Music/Christmas Cocktails
+/home/dgraper/colossus_share0/mybook_1220/My Music/Telekon
+/home/dgraper/colossus_share0/mybook_1220/My Web Sites
+/home/dgraper/colossus_share0/mybook_1220/My Web Sites/drgraper
+/home/dgraper/colossus_share0/mybook_1220/My Web Sites/drgraper/DrGraperWebsite
+/home/dgraper/colossus_share0/mybook_1220/My Web Sites/drgraper/DrGraperWebsite/grapenotes.com
+/home/dgraper/colossus_share0/mybook_1220/My Web Sites/drgraper/DrGraperWebsite/grapenotes.com/images
+/home/dgraper/colossus_share0/mybook_1220/My Web Sites/drgraper/DrGraperWebsite/hts-cache
+/home/dgraper/colossus_share0/mybook_1220/Panasonic Security
+/home/dgraper/colossus_share0/mybook_1220/Panasonic Security/AdminConsole
+/home/dgraper/colossus_share0/mybook_1220/Panasonic Security/dotNetFramework
+/home/dgraper/colossus_share0/mybook_1220/Panasonic Security/Instructions
+/home/dgraper/colossus_share0/mybook_1220/Panasonic Security/VCRUNTIME
+/home/dgraper/colossus_share0/mybook_1220/Panasonic Security/VCRUNTIME2005
+/home/dgraper/colossus_share0/mybook_1220/Plover
+/home/dgraper/colossus_share0/mybook_1220/Plover/plover-master
+/home/dgraper/colossus_share0/mybook_1220/Plover/plover-master/application
+/home/dgraper/colossus_share0/mybook_1220/Plover/plover-master/doc
+/home/dgraper/colossus_share0/mybook_1220/Plover/plover-master/osx
+/home/dgraper/colossus_share0/mybook_1220/Plover/plover-master/plover
+/home/dgraper/colossus_share0/mybook_1220/Plover/plover-master/plover/assets
+/home/dgraper/colossus_share0/mybook_1220/Plover/plover-master/plover/dictionary
+/home/dgraper/colossus_share0/mybook_1220/Plover/plover-master/plover/gui
+/home/dgraper/colossus_share0/mybook_1220/Plover/plover-master/plover/machine
+/home/dgraper/colossus_share0/mybook_1220/Plover/plover-master/plover/oslayer
+/home/dgraper/colossus_share0/mybook_1220/Plover/plover-master/windows
+/home/dgraper/colossus_share0/mybook_1220/ProgramData
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Adobe
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Adobe/ARM
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Adobe/ARM/Reader_11.0.09
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Adobe/ARM/Reader_11.0.09/10260
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Adobe/ISO-19770
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Apple
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Apple/Installer Cache
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Apple/Installer Cache/AppleApplicationSupport 2.3.6
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Apple/Installer Cache/Apple Software Update 2.1.3.127
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Blueberry
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Blueberry/Licences
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Blueberry/Updates
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/bin
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/config
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/helpers
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/helpers/functions
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/lib
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/lib/chocolatey
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/lib/git
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/lib/Git-Credential-Manager-for-Windows
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/lib/Git-Credential-Manager-for-Windows/tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/lib/git-credential-winstore
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/lib/git.install
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/lib/git.install/tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/lib/poshgit
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/lib/poshgit/tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/logs
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/redirects
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/chocolatey/tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/CorelDRAW Graphics Suite X4
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Downloads
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Downloads/540228824_707000
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Downloads/540228824_707000/1225405113942
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1190954645830
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1191271980251
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825977981
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825978124
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825981381
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825981556
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825981696
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825982188
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825982381
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825982508
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825985748
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825997910
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825998188
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825998512
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825998709
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825998817
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825998928
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192825999084
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1192826000840
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/1197063400733
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Corel/Messages/540228824_707000/EN/MessageCache1/skin
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Dell
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Dell/UpdatePackage
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Dell/UpdatePackage/Log
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/dftmp
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/BundleLicenses
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/ControlPanel
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/Converter
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/DesktopService
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/DFXPlugin
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/DivXComponentManager
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/DivXMediaServer
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/DivXPlusShortcuts
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/DPC
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/MPEG2Plugin
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/MSVC120CRTRedist
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/MSVC80CRTRedist
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/OVSHelper
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/Player
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/Qt4.8
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/Qt5.5.1
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/Setup
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/Setup/DefaultBanner
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/Setup/EULAs
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/Setup/EULAs/consumer
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/Setup/RunAsUser
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/TranscodeEngine
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/TransferWizard
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/Update
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/DivX/WebPlayer
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/FileOpen
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/FileOpen/Updates
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/FileOpen/Updates/L10n
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/FileOpen/Updates/Lists
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/FLEXnet
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/FLEXnet/Connect
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/FLEXnet/Connect/11
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/FLEXnet/Connect/Database
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Git
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/GNU
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/GNU/etc
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/GNU/etc/dirmngr
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/GNU/etc/dirmngr/trusted-certs
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/GNU/etc/gnupg
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/HP
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/HP/Install
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/IsolatedStorage
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/IsolatedStorage/2ijeanar.qmn
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/IsolatedStorage/2ijeanar.qmn/dkbagg5r.ris
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/IsolatedStorage/2ijeanar.qmn/dkbagg5r.ris/StrongName.rgxnfyjm5b5dnnatdapj0ktcnerr44mm
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/IsolatedStorage/2ijeanar.qmn/dkbagg5r.ris/StrongName.rgxnfyjm5b5dnnatdapj0ktcnerr44mm/StrongName.rgxnfyjm5b5dnnatdapj0ktcnerr44mm
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/KeyAccess
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/KeyAccess/portable.dir
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/LINQPad
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/LogMeIn
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/LogSys
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Macrovision
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Macrovision/FLEXnet Connect
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Macrovision/FLEXnet Connect/11
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Macrovision/FLEXnet Connect/6
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Malwarebytes
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Malwarebytes' Anti-Malware (portable)
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Malwarebytes/Malwarebytes Anti-Malware
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Malwarebytes/Malwarebytes Anti-Malware/Configuration
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Malwarebytes/Malwarebytes Anti-Malware/Configuration/Restore
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Malwarebytes/Malwarebytes Anti-Malware/Logs
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Application Compatibility Toolkit
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Assistance
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Assistance/Client
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Assistance/Client/1.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Assistance/Client/1.0/en-US
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Blend
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Blend/14.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Blend/14.0/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Crypto
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Crypto/RSA
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Crypto/RSA/MachineKeys
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Device Stage
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Device Stage/Device
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Device Stage/Device/{113527a4-45d4-4b6f-b567-97838f1b04b0}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Device Stage/Device/{8702d817-5aad-4674-9ef3-4d3decd87120}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Device Stage/Task
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Device Stage/Task/{07deb856-fc6e-4fb9-8add-d8f2cf8722c9}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Device Stage/Task/{07deb856-fc6e-4fb9-8add-d8f2cf8722c9}/en-US
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Device Stage/Task/{e35be42d-f742-4d96-a50a-1775fb1a7a42}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Device Stage/Task/{e35be42d-f742-4d96-a50a-1775fb1a7a42}/en-US
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Event Viewer
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Event Viewer/Applications and Services Logs
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Event Viewer/ExternalLogs
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Event Viewer/Windows Logs
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{04F4BF11-434A-4CB3-92A5-019A9CB533B2}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{04F4BF11-434A-4CB3-92A5-019A9CB533B2}/Machine
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{04F4BF11-434A-4CB3-92A5-019A9CB533B2}/Machine/Preferences
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{04F4BF11-434A-4CB3-92A5-019A9CB533B2}/Machine/Preferences/Registry
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{0984CFD7-D2D7-4768-932A-100BB141F455}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{0984CFD7-D2D7-4768-932A-100BB141F455}/Machine
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{0984CFD7-D2D7-4768-932A-100BB141F455}/Machine/Preferences
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{0984CFD7-D2D7-4768-932A-100BB141F455}/Machine/Preferences/Files
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{1003548F-0158-473C-9E1D-09AE26418FBE}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{1003548F-0158-473C-9E1D-09AE26418FBE}/S-1-5-21-375655340-1700474455-5522801-135538
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{1003548F-0158-473C-9E1D-09AE26418FBE}/S-1-5-21-375655340-1700474455-5522801-135538/Preferences
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{1003548F-0158-473C-9E1D-09AE26418FBE}/S-1-5-21-375655340-1700474455-5522801-135538/Preferences/Drives
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{31B2F340-016D-11D2-945F-00C04FB984F9}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{31B2F340-016D-11D2-945F-00C04FB984F9}/Machine
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{31B2F340-016D-11D2-945F-00C04FB984F9}/Machine/Preferences
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{31B2F340-016D-11D2-945F-00C04FB984F9}/Machine/Preferences/Groups
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{4B69717A-E4C5-4499-A3BA-D7A4174226F3}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{4B69717A-E4C5-4499-A3BA-D7A4174226F3}/S-1-5-21-375655340-1700474455-5522801-135538
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{4B69717A-E4C5-4499-A3BA-D7A4174226F3}/S-1-5-21-375655340-1700474455-5522801-135538/Preferences
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{4B69717A-E4C5-4499-A3BA-D7A4174226F3}/S-1-5-21-375655340-1700474455-5522801-135538/Preferences/Printers
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{4F1DBE3F-0267-4BF5-9B1F-C2D2D95BD637}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{4F1DBE3F-0267-4BF5-9B1F-C2D2D95BD637}/S-1-5-21-375655340-1700474455-5522801-135538
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{4F1DBE3F-0267-4BF5-9B1F-C2D2D95BD637}/S-1-5-21-375655340-1700474455-5522801-135538/Preferences
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{4F1DBE3F-0267-4BF5-9B1F-C2D2D95BD637}/S-1-5-21-375655340-1700474455-5522801-135538/Preferences/Drives
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{4F1DBE3F-0267-4BF5-9B1F-C2D2D95BD637}/S-1-5-21-375655340-1700474455-5522801-135538/Preferences/Registry
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{72F75329-9905-41C0-8AE6-56BE13DE7417}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{72F75329-9905-41C0-8AE6-56BE13DE7417}/S-1-5-21-375655340-1700474455-5522801-135538
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{72F75329-9905-41C0-8AE6-56BE13DE7417}/S-1-5-21-375655340-1700474455-5522801-135538/Preferences
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{72F75329-9905-41C0-8AE6-56BE13DE7417}/S-1-5-21-375655340-1700474455-5522801-135538/Preferences/Printers
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{738A7195-E016-48C4-8553-3C0B1F8DE6B0}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{738A7195-E016-48C4-8553-3C0B1F8DE6B0}/Machine
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{738A7195-E016-48C4-8553-3C0B1F8DE6B0}/Machine/Preferences
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{738A7195-E016-48C4-8553-3C0B1F8DE6B0}/Machine/Preferences/Groups
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{738A7195-E016-48C4-8553-3C0B1F8DE6B0}/Machine/Preferences/Services
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{CD47BDDB-55C5-4426-A4C1-B3B70B737B85}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{CD47BDDB-55C5-4426-A4C1-B3B70B737B85}/Machine
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{CD47BDDB-55C5-4426-A4C1-B3B70B737B85}/Machine/Preferences
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{CD47BDDB-55C5-4426-A4C1-B3B70B737B85}/Machine/Preferences/Registry
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{E337E6C7-AC16-445E-84E9-34040E582541}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{E337E6C7-AC16-445E-84E9-34040E582541}/Machine
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{E337E6C7-AC16-445E-84E9-34040E582541}/Machine/Preferences
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Group Policy/History/{E337E6C7-AC16-445E-84E9-34040E582541}/Machine/Preferences/Registry
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft Help
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/HelpLibrary2
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/HelpLibrary2/Catalogs
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/HelpLibrary2/Catalogs/VisualStudio12
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/HelpLibrary2/Catalogs/VisualStudio14
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/IdentityCRL
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/MF
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Microsoft Forefront Endpoint Protection 2010 Server Management
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Microsoft Forefront Endpoint Protection 2010 Server Management/Support
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Microsoft Security Client
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Microsoft Security Client/Support
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Microsoft SQL Server
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Microsoft SQL Server/100
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Microsoft SQL Server/100/Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Microsoft SQL Server/100/Tools/Shell
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Microsoft SQL Server/100/Tools/Shell/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Microsoft Standalone System Sweeper Tool
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Microsoft Standalone System Sweeper Tool/Support
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/MSDN
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/MSDN/9.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/MSDN/9.0/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/OFFICE
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/OFFICE/DATA
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/OFFICE/Heartbeat
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/OfficeSoftwareProtectionPlatform
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/OfficeSoftwareProtectionPlatform/Cache
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/OFFICE/UICaptions
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/OFFICE/UICaptions/1036
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/OFFICE/UICaptions/3082
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft OneDrive
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft OneDrive/setup
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/11.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/11.0/addons
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0/1028
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0/1031
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0/1036
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0/1040
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0/1041
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0/1042
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0/1049
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0/2052
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0/3082
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Phone Tools/CoreCon/12.0/addons
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/RAC
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/RAC/PublishedData
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/RAC/StateData
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Team Foundation
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Team Foundation/Work Item Tracking
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Team Foundation/Work Item Tracking/Custom Controls
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Team Foundation/Work Item Tracking/Custom Controls/10.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Team Foundation/Work Item Tracking/Custom Controls/12.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Team Foundation/Work Item Tracking/Custom Controls/14.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/User Account Pictures
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/User Account Pictures/Default Pictures
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Vault
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Vault/AC658CB4-9126-49BD-B877-31EEDAB3F204
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudio
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudio/10.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudio/10.0/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudio/12.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudio/12.0/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudio/14.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudio/14.0/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/AppInsightsToolsVisualStudio_HiddenVSU3RTMV1_7.0.20620.1
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/AppInsightsToolsVisualStudio_HiddenVSU3RTMV1_7.0.20620.1/en
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/AppInsightsToolsVisualStudio_HiddenVSU3RTMV1_7.0.20620.1/en/0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/JavaScriptLanguageService_Hidden_14.0.25527
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/JavaScriptLanguageService_Hidden_14.0.25527/en
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/JavaScriptLanguageService_Hidden_14.0.25527/en/0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/JavaScriptProjectSystem_Hidden_14.0.25527
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/JavaScriptProjectSystem_Hidden_14.0.25527/en
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/JavaScriptProjectSystem_Hidden_14.0.25527/en/0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/MicroUpdate3.4
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/MicroUpdate3.4/en
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/installers/MicroUpdate3.4/en/0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/LastUsedFeed
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/LastUsedFeed/{4f075c79-8ee3-4c85-9408-828736d1f7f3}
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VisualStudioSecondaryInstaller/14.0/preprocessor
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSA
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSA/9.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSA/9.0/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/1033/AppConfigInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/1033/AppManifestInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/1033/AssemblyInfoInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/1033/ResourceInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/1033/SettingsInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Code
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Code/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Code/1033/Class.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Code/1033/CodeFile.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Code/1033/Interface.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Data
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Data/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Data/1033/DataSet.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Data/1033/EmptyDatabase2.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Data/1033/EmptyDatabase.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Data/1033/LinqToSQL_CS.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Data/1033/LocalDataCache.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Data/1033/XMLFile.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Data/1033/XMLSchema.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Data/1033/XSLTFile.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/AppConfig.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/AppManifest.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/AssemblyInfo.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/BitMap.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/ClassDiagram.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/Component.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/Cursor.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/Icon.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/Installer.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/Resource.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/Service.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/Settings.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/TextFile.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/Visualizer.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/General/1033/WinScript.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Web
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Web/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Web/1033/HTMLPage.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Web/1033/JScript.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Web/1033/StyleSheet.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Web/1033/WebCustomControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Windows Forms
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033/AboutBox.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033/CustomControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033/Form.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033/MDIParent.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033/UserControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/WPF
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/WPF/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFCustomControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFFlowDocument.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFPageFunction.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFPage.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFResourceDictionary.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFUserControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFWindow.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/1033/AppConfigurationInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/1033/AssemblyInfoInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/1033/ResourceInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/1033/SettingsInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Code
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Code/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Code/1033/Class.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Code/1033/Module.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Data
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Data/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Data/1033/Dataset.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Data/1033/EmptyDatabase2.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Data/1033/EmptyDatabase.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Data/1033/LinqToSQL_VB.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/General
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/General/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/General/1033/Text.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Windows Forms
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/Dialog.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/Explorer.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/Form.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/LoginForm.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/MDIParent.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/SplashScreen.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/UserControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/WPF
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/WPF/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ItemTemplatesCache/VisualBasic/WPF/1033/WPFUserControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ProjectTemplatesCache
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ProjectTemplatesCache/CSharp
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ProjectTemplatesCache/CSharp/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ProjectTemplatesCache/CSharp/1033/Integration Services Script Component.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ProjectTemplatesCache/VisualBasic
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ProjectTemplatesCache/VisualBasic/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptComponent/9.0/ProjectTemplatesCache/VisualBasic/1033/Integration Services Script Component.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/1033/AppConfigInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/1033/AppManifestInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/1033/AssemblyInfoInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/1033/ResourceInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/1033/SettingsInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Code
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Code/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Code/1033/Class.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Code/1033/CodeFile.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Code/1033/Interface.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Data
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Data/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Data/1033/DataSet.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Data/1033/EmptyDatabase2.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Data/1033/EmptyDatabase.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Data/1033/LinqToSQL_CS.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Data/1033/LocalDataCache.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Data/1033/XMLFile.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Data/1033/XMLSchema.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Data/1033/XSLTFile.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/AppConfig.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/AppManifest.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/AssemblyInfo.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/BitMap.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/ClassDiagram.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/Component.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/Cursor.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/Icon.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/Installer.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/Resource.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/Service.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/Settings.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/TextFile.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/Visualizer.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/General/1033/WinScript.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Web
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Web/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Web/1033/HTMLPage.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Web/1033/JScript.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Web/1033/StyleSheet.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Web/1033/WebCustomControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Windows Forms
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033/AboutBox.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033/CustomControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033/Form.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033/MDIParent.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/Windows Forms/1033/UserControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/WPF
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/WPF/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFCustomControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFFlowDocument.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFPageFunction.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFPage.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFResourceDictionary.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFUserControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/CSharp/WPF/1033/WPFWindow.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/1033/AppConfigurationInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/1033/AssemblyInfoInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/1033/ResourceInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/1033/SettingsInternal.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Code
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Code/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Code/1033/Class.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Code/1033/Module.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Data
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Data/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Data/1033/Dataset.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Data/1033/EmptyDatabase2.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Data/1033/EmptyDatabase.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Data/1033/LinqToSQL_VB.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/General
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/General/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/General/1033/Text.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Windows Forms
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/Dialog.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/Explorer.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/Form.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/LoginForm.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/MDIParent.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/SplashScreen.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/Windows Forms/1033/UserControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/WPF
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/WPF/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ItemTemplatesCache/VisualBasic/WPF/1033/WPFUserControl.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ProjectTemplatesCache
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ProjectTemplatesCache/CSharp
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ProjectTemplatesCache/CSharp/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ProjectTemplatesCache/CSharp/1033/Integration Services Script Task.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ProjectTemplatesCache/VisualBasic
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ProjectTemplatesCache/VisualBasic/1033
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/VSTAHost/SSIS_ScriptTask/9.0/ProjectTemplatesCache/VisualBasic/1033/Integration Services Script Task.zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Caches
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/DeviceMetadataStore
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/DeviceMetadataStore/en-US
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/DRM
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/DRM/Cache
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/DRM/Cache/Indiv_SID_S-1-5-21-375655340-1700474455-5522801-135538
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows NT
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows NT/MSScan
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Ringtones
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/7-Zip
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Accessories
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Accessories/Tablet PC
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Accessories/Windows PowerShell
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Administrative Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Adobe
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/ArcGIS
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/ArcGIS/ArcGIS for Desktop Help
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/ArcGIS/Desktop Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/ArcGIS/License Manager
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/ArcGIS/Python 2.7
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/AutoHotkey
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Blueberry Software
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Blueberry Software/FlashBack Express 5
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Blueberry Software/FlashBack Express 5/Support
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/CorelDRAW Graphics Suite X4
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/CorelDRAW Graphics Suite X4/Documentation
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/DivX
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Enhanced Mitigation Experience Toolkit
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/ExactFile
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Expresso
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/FairStars CD Ripper
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/FileZilla FTP Client
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Ghostgum
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Ghostscript
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Git
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/GnuWin32
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/GnuWin32/Gawk
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/GnuWin32/Gawk/doc
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/GnuWin32/Gawk/doc/gawk
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/GnuWin32/Gawk/doc/gawk/3.1.6
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/GnuWin32/Gawk/doc/gawk/3.1.6/gawk-3.1.6
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/GnuWin32/Gawk/doc/gawk/UnixV7
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/GnuWin32/Gawk/man
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/GnuWin32/Gawk/man/pdf
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Gpg4win
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Gpg4win/Documentation
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Greenshot
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Hewlett-Packard Company
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/HFSExplorer
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/HFSExplorer/Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/HP Instant Printing 3
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/InstallShield
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Java
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/JetBrains
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/KONICA MINOLTA
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/KONICA MINOLTA/Device Set-Up
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/KONICA MINOLTA/PageScope Data Admin V4
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/LibreOffice 5.1
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/LINQPad
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Maintenance
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Malwarebytes Anti-Malware
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Malwarebytes Anti-Malware/Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/MD5Check
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Application Compatibility Toolkit
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Application Compatibility Toolkit/Demo Application
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Application Compatibility Toolkit/Developer and Tester Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Azure
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Azure/Emulator
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Azure/Microsoft Azure SDK for .NET
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Azure/Microsoft Azure SDK for .NET/v2.9
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Azure/Storage Emulator
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Expression
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Expression/Microsoft Expression Blend SDK
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Office
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Office 2013
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Office 2013/Office 2013 Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Office/Microsoft Office Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Silverlight
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Silverlight 3 SDK
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Silverlight 4 SDK
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft SQL Server 2008
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft SQL Server 2008/Analysis Services
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft SQL Server 2008/Configuration Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft SQL Server 2008/Integration Services
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft SQL Server 2008/Performance Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Sync Framework
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft System Center
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft System Center/Configuration Manager
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Visual Studio 2010
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Visual Studio 2010/Microsoft Windows SDK Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Visual Studio 2010/Team Foundation Server Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Visual Studio 2010/Visual Studio Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Visual Studio 2012
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Microsoft Visual Studio 2012/Visual Studio Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/MiKTeX 2.9
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/MiKTeX 2.9/Help
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/MiKTeX 2.9/Maintenance
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/MiKTeX 2.9/Maintenance (Admin)
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/MiKTeX 2.9/MiKTeX on the Web
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Oracle VM VirtualBox
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/PDFCreator
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/PDFCreator/Licenses
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/PDF Split And Merge enhanced
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/PDF-XChange PDF Viewer
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Perforce
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/PowerGUI
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/PowerGUI/x86
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/PuTTY
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Python 2.7
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Python Tools for Visual Studio 2013
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Python Tools for Visual Studio 2015
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/R
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Sassafras K2
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Scribus 1.4.5
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Softerra LDAP Browser 4.5 (64-bit)
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Startup
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/TeXnicCenter
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Tracker Software
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Tracker Software/PDF-XChange Editor
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Tracker Software/PDF-XChange Lite V6
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/VideoLAN
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Vim 7.4
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Visual Studio 2013
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Visual Studio 2015
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Visual Studio 2015/Visual Studio Tools
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/VMware
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/WCF RIA Services V1.0 SP1
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/WinCDEmu
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Windows Kits
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Windows Kits/Application Verifier (X64)
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Windows Kits/Application Verifier (X86)
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Windows Kits/Windows App Certification Kit
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Windows Kits/Windows Performance Toolkit
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Windows Kits/Windows Software Development Kit
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/Windows Phone SDK 8.1
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/WinHTTrack
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/Windows/Start Menu/Programs/WinMerge
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/WLSetup
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/WLSetup/CabLogs
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/Microsoft/WLSetup/Logs
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX/2.9
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX/2.9/dvipdfm
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX/2.9/dvipdfm/config
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX/2.9/dvips
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX/2.9/dvips/config
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX/2.9/fontconfig
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX/2.9/fontconfig/cache
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX/2.9/fontconfig/config
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX/2.9/miktex
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX/2.9/miktex/data
+/home/dgraper/colossus_share0/mybook_1220/ProgramData/MiKTeX/2.9/miktex/data/le

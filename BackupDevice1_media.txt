@@ -1,0 +1,931 @@
+/home/dgraper/colossus_share0
+/home/dgraper/colossus_share0/4kvid
+/home/dgraper/colossus_share0/4kvid/031822
+/home/dgraper/colossus_share0/Access Workspace
+/home/dgraper/colossus_share0/backups
+/home/dgraper/colossus_share0/C# PDF
+/home/dgraper/colossus_share0/Database Project Backup
+/home/dgraper/colossus_share0/Database Project Backup/graper_django
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite/biosite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite/biosite/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (2)
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (2)/biosite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (2)/biosite/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (2)/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (2)/keypadcodes/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (2)/keypadcodes/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (2)/keypadcodes/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (2)/keypadcodes/static
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (2)/keypadcodes/static/css
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (2)/keypadcodes/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (2)/keypadcodes/templates/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (3)
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (3)/biosite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (3)/biosite/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (3)/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (3)/keypadcodes/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (3)/keypadcodes/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (3)/keypadcodes/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (3)/keypadcodes/static
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (3)/keypadcodes/static/css
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (3)/keypadcodes/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (3)/keypadcodes/templates/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (4)
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (4)/biosite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (4)/biosite/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (4)/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (4)/keypadcodes/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (4)/keypadcodes/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (4)/keypadcodes/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (4)/keypadcodes/static
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (4)/keypadcodes/static/css
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (4)/keypadcodes/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (4)/keypadcodes/templates/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (5)
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (5)/biosite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (5)/biosite/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (5)/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (5)/keypadcodes/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (5)/keypadcodes/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (5)/keypadcodes/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (5)/keypadcodes/static
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (5)/keypadcodes/static/css
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (5)/keypadcodes/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (5)/keypadcodes/templates/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (6)
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (6)/biosite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (6)/biosite/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (6)/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (6)/keypadcodes/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (6)/keypadcodes/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (6)/keypadcodes/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (6)/keypadcodes/static
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (6)/keypadcodes/static/css
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (6)/keypadcodes/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (6)/keypadcodes/templates/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (7)
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (7)/biosite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (7)/biosite/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (7)/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (7)/keypadcodes/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (7)/keypadcodes/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (7)/keypadcodes/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (7)/keypadcodes/static
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (7)/keypadcodes/static/css
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (7)/keypadcodes/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (7)/keypadcodes/templates/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (8)
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (8)/biosite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (8)/biosite/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (8)/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (8)/keypadcodes/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (8)/keypadcodes/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (8)/keypadcodes/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (8)/keypadcodes/static
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (8)/keypadcodes/static/css
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (8)/keypadcodes/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy (8)/keypadcodes/templates/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy/biosite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy/biosite/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy/keypadcodes/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy/keypadcodes/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy/keypadcodes/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy/keypadcodes/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite - Copy/keypadcodes/templates/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite/keypadcodes/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite/keypadcodes/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite/keypadcodes/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite/keypadcodes/static
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite/keypadcodes/static/css
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite/keypadcodes/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/biosite/keypadcodes/templates/keypadcodes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/account
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/account/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/account/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/account/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/account/static
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/account/static/css
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/account/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/account/templates/account
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/account/templates/biodb
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/account/templates/registration
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/bookmarks
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bookmarks/bookmarks/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bootstrap-forms-example-master
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bootstrap-forms-example-master/people
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bootstrap-forms-example-master/people/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bootstrap-forms-example-master/people/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bootstrap-forms-example-master/people/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bootstrap-forms-example-master/simpleproject
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bootstrap-forms-example-master/simpleproject/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bootstrap-forms-example-master/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/bootstrap-forms-example-master/templates/people
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/docs
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/example
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/example/app
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/example/app/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/example/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/example/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/example/templates/app
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/hooks
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.github
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.github/workflows
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/info
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/logs
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/logs/refs
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/logs/refs/heads
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/logs/refs/remotes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/logs/refs/remotes/origin
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/objects
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/objects/pack
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/refs
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/refs/heads
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/refs/remotes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/.git/refs/remotes/origin
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/src
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/src/bootstrap4
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/src/bootstrap4/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/src/bootstrap4/templates/bootstrap4
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/src/bootstrap4/templates/bootstrap4/widgets
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/src/bootstrap4/templatetags
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/tests
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/tests/app
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/tests/app/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/django-bootstrap4/tests/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/filter1
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/filter1/filter1
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/filter1/filter1/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/filter1/filtertest
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/filter1/filtertest/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/filter1/filtertest/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/filter1/filtertest/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/filter1/filtertest/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/filter1/filtertest/templates/filtertest
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/mysite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/mysite/mysite
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/mysite/mysite/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/mysite/polls
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/mysite/polls/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/mysite/polls/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/mysite/polls/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/mysite/polls/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/mysite/polls/templates/polls
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/hooks
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/info
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/logs
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/logs/refs
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/logs/refs/heads
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/logs/refs/remotes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/logs/refs/remotes/origin
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/objects
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/objects/pack
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/refs
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/refs/heads
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/refs/remotes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/.git/refs/remotes/origin
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/my_app
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/my_app/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/my_app/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/my_app/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/my_app/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/my_proj
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/qs-filter-django/my_proj/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple0
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple0/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/contrib
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/hooks
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/info
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/logs
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/logs/refs
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/logs/refs/heads
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/logs/refs/remotes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/logs/refs/remotes/origin
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/objects
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/objects/pack
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/refs
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/refs/heads
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/refs/remotes
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/.git/refs/remotes/origin
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/myproject
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/myproject/core
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/myproject/core/migrations
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/myproject/core/migrations/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/myproject/core/__pycache__
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/myproject/core/templates
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/myproject/core/templates/core
+/home/dgraper/colossus_share0/Database Project Backup/graper_django/simple-django-filter/myproject/__pycache__
+/home/dgraper/colossus_share0/Django-3-by-Example-master
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite/blog
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite/blog/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite/blog/migrations/__pycache__
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite/blog/__pycache__
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite/blog/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite/blog/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite/blog/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite/blog/templates/blog
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite/blog/templates/blog/post
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite/mysite
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter01/mysite/mysite/__pycache__
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter02
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter02/mysite
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter02/mysite/blog
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter02/mysite/blog/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter02/mysite/blog/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter02/mysite/blog/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter02/mysite/blog/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter02/mysite/blog/templates/blog
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter02/mysite/blog/templates/blog/post
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter02/mysite/mysite
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter03
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter03/mysite
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter03/mysite/blog
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter03/mysite/blog/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter03/mysite/blog/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter03/mysite/blog/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter03/mysite/blog/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter03/mysite/blog/templates/blog
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter03/mysite/blog/templates/blog/post
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter03/mysite/blog/templatetags
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter03/mysite/mysite
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter04
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter04/bookmarks
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter04/bookmarks/account
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter04/bookmarks/account/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter04/bookmarks/account/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter04/bookmarks/account/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter04/bookmarks/account/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter04/bookmarks/account/templates/account
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter04/bookmarks/account/templates/registration
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter04/bookmarks/bookmarks
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/account
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/account/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/account/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/account/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/account/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/account/templates/account
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/account/templates/registration
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/bookmarks
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/common
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/images
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/images/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/images/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/images/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/images/static/js
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/images/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/images/templates/images
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter05/bookmarks/images/templates/images/image
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/account
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/account/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/account/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/account/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/account/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/account/templates/account
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/account/templates/account/user
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/account/templates/registration
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/actions
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/actions/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/actions/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/actions/templates/actions
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/actions/templates/actions/action
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/bookmarks
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/common
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/images
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/images/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/images/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/images/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/images/static/js
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/images/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/images/templates/images
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter06/bookmarks/images/templates/images/image
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/cart
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/cart/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/cart/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/cart/templates/cart
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/myshop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/orders
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/orders/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/orders/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/orders/templates/orders
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/orders/templates/orders/order
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/shop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/shop/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/shop/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/shop/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/shop/static/img
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/shop/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/shop/templates/shop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter07/myshop/shop/templates/shop/product
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/cart
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/cart/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/cart/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/cart/templates/cart
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/myshop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/orders
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/orders/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/orders/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/orders/templates/admin
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/orders/templates/admin/orders
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/orders/templates/admin/orders/order
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/orders/templates/orders
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/orders/templates/orders/order
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/payment
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/payment/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/payment/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/payment/templates/payment
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/shop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/shop/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/shop/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/shop/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/shop/static/img
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/shop/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/shop/templates/shop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/shop/templates/shop/product
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/css/vendor
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/css/vendor/select2
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/fonts
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/img
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/img/gis
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/js
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/admin
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/jquery
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/select2
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/select2/i18n
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/xregexp
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter08/myshop/static/img
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/cart
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/cart/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/cart/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/cart/templates/cart
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/coupons
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/coupons/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/locale
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/locale/en
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/locale/en/LC_MESSAGES
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/locale/es
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/locale/es/LC_MESSAGES
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/myshop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/locale
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/locale/en
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/locale/en/LC_MESSAGES
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/locale/es
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/locale/es/LC_MESSAGES
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/templates/admin
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/templates/admin/orders
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/templates/admin/orders/order
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/templates/orders
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/orders/templates/orders/order
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/payment
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/payment/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/payment/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/payment/templates/payment
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/shop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/shop/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/shop/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/shop/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/shop/static/img
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/shop/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/shop/templates/shop
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/shop/templates/shop/product
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/css/vendor
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/css/vendor/select2
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/fonts
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/img
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/img/gis
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/js
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/admin
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/jquery
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/select2
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/select2/i18n
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/xregexp
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter09/myshop/static/img
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/fixtures
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage/content
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage/module
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/templates/registration
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/courses/templatetags
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter10/educa/educa
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/fixtures
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/content
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage/content
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage/module
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/templates/registration
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/courses/templatetags
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/educa
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/students
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/students/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/students/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/students/templates/students
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/students/templates/students/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter11/educa/students/templates/students/student
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/api_examples
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/api
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/fixtures
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/content
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage/content
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage/module
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/templates/registration
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/courses/templatetags
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/educa
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/students
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/students/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/students/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/students/templates/students
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/students/templates/students/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter12/educa/students/templates/students/student
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/chat
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/chat/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/chat/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/chat/templates/chat
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/api
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/fixtures
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/content
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage/content
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage/module
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/templates/registration
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/courses/templatetags
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/educa
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/students
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/students/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/students/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/students/templates/students
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/students/templates/students/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter13/educa/students/templates/students/student
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/chat
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/chat/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/chat/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/chat/templates/chat
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/config
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/api
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/fixtures
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/content
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage/content
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage/module
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/templates/registration
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/courses/templatetags
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/educa
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/educa/settings
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/logs
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/ssl
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/css/vendor
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/css/vendor/select2
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/fonts
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/img
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/img/gis
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/js
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/js/admin
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/jquery
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/select2
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/select2/i18n
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/xregexp
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/rest_framework
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs/css
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs/img
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs/js
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/fonts
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/img
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/js
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/students
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/students/management
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/students/management/commands
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/students/migrations
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/students/templates
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/students/templates/students
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/students/templates/students/course
+/home/dgraper/colossus_share0/Django-3-by-Example-master/Chapter14/educa/students/templates/students/student
+/home/dgraper/colossus_share0/Django and Other Videos
+/home/dgraper/colossus_share0/Django and Other Videos/091520
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Corey Schaefer
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Dennis Ivy
+/home/dgraper/colossus_share0/Django and Other Videos/Django Miscellaneous
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Pretty Printed
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Red Eyed Coder Club
+/home/dgraper/colossus_share0/Django and Other Videos/Django - Yogi Coder
+/home/dgraper/colossus_share0/Django and Other Videos/Raspberry Pi
+/home/dgraper/colossus_share0/Django and Other Videos/SSH
+/home/dgraper/colossus_share0/Django and Other Videos/Try DJANGO
+/home/dgraper/colossus_share0/HChen Laptop 092320
+/home/dgraper/colossus_share0/HChen Laptop 092320/3D Objects
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel/CUIPromotions
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel/CUIPromotions/Config
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel/CUIPromotions/Images
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel/Games
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Intel/Games/Common
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/CryptnetUrlCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/CryptnetUrlCache/Content
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/CryptnetUrlCache/MetaData
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/6SOAZC0K
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/FDNOAP4Y
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/RTZP7CDJ
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/EmieSiteList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Internet Explorer/EmieUserList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Windows
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Windows/AppCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/LocalLow/Microsoft/Windows/AppCache/QY1C6OLN
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Credentials
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_DNTException
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_EmieSiteList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_EmieUserList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_iecompat
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_iecompatua
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/MicrosoftEdge/SharedCacheContainers/MicrosoftEdge_ieflipahead
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Feeds Cache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Feeds Cache/T6OIKS6A
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore/9ABXTZ2G
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore/ESVB6GIT
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/DOMStore/I38BY5FG
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/EmieSiteList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/EmieUserList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Internet Explorer/IEFlipAheadCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/TokenBroker
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/TokenBroker/Cache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/AppCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/AppCache/9FAB8ISA
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/Application Shortcuts
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/Burn
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/Burn/Burn
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019052020190527
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019052920190530
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019082620190902
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012019090420190905
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020083120200907
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020090720200914
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020091420200921
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020092120200922
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012020092220200923
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/Low
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/History/Low/History.IE5
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatCache/Low
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatUaCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IECompatUaCache/Low
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/IEDownloadHistory
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Content.MSO
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Content.Word
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/IE
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Low
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Low/IE
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Virtualized
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Virtualized/C
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Virtualized/C/ProgramData
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Virtualized/C/ProgramData/Intel
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCache/Virtualized/C/ProgramData/Intel/ShaderCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/DNTException
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/ESE
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/Low
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/INetCookies/Low/ESE
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WebCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WinX
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WinX/Group1
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WinX/Group2
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Microsoft/Windows/WinX/Group3
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/AC
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/AC/INetCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/AC/Microsoft
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/AC/Microsoft/CryptnetUrlCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/AC/Microsoft/CryptnetUrlCache/Content
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/AC/Microsoft/CryptnetUrlCache/MetaData
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Adobe.CC.XD_adky2gkssdxte/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/AppCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/AppCache/AD24JK48
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/GEH
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/INetCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/AC/INetCookies
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/DellInc.DellSupportAssistforPCs_htrsf667h5kn2/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/InputApp_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/InputApp_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.AccountsControl_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.AccountsControl_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.BioEnrollment_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.BioEnrollment_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.CredDialogHost_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.CredDialogHost_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.ECApp_8wekyb3d8bbwe
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.ECApp_8wekyb3d8bbwe/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.GetHelp_8wekyb3d8bbwe
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.GetHelp_8wekyb3d8bbwe/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.LockApp_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.LockApp_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft/CryptnetUrlCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft/CryptnetUrlCache/Content
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft/CryptnetUrlCache/MetaData
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft/Crypto
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/Microsoft/Crypto/Keys
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/Cache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/History
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/IECompatCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/IECompatUaCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/IEFlipAheadCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/AppCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/AppCache/5IMEIQ6B
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/DOMStore
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/DOMStore/4VAATDGG
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/DOMStore/J95LLWGK
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/DOMStore/PH3XHFM7
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/DOMStore/YZ2PEDRY
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/EmieSiteList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!001/MicrosoftEdge/User/Default/EmieUserList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/Microsoft
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/Microsoft/CryptnetUrlCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/Microsoft/CryptnetUrlCache/Content
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/Microsoft/CryptnetUrlCache/MetaData
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/Cache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/History
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/IECompatCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/IECompatUaCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/M77D5AT6
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/M77D5AT6/2
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/AppCache/M77D5AT6/7
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/DOMStore
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/DOMStore/6PNA9UJN
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/DOMStore/SNEE9AZ4
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/EmieSiteList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!002/MicrosoftEdge/User/Default/EmieUserList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/Cache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/History
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/IECompatCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/IECompatUaCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/IEFlipAheadCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/User
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/User/Default
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/User/Default/EmieSiteList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!004/MicrosoftEdge/User/Default/EmieUserList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/Cache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/History
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/IECompatCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/IECompatUaCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/IEFlipAheadCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/User
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/User/Default
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/User/Default/EmieSiteList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/#!121/MicrosoftEdge/User/Default/EmieUserList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/Microsoft
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/Microsoft/CryptnetUrlCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/Microsoft/CryptnetUrlCache/Content
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/Microsoft/CryptnetUrlCache/MetaData
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/Cache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/History
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/IECompatCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/IECompatUaCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/IEFlipAheadCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/DNTException
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/DownloadHistory
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/EmieSiteList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/AC/MicrosoftEdge/User/Default/EmieUserList
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.PPIProjection_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.PPIProjection_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.StorePurchaseApp_8wekyb3d8bbwe
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.StorePurchaseApp_8wekyb3d8bbwe/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.WebMediaExtensions_8wekyb3d8bbwe
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.WebMediaExtensions_8wekyb3d8bbwe/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.WindowsCalculator_8wekyb3d8bbwe
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.WindowsCalculator_8wekyb3d8bbwe/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/INetCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/INetCookies
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/INetCookies/ESE
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/Microsoft
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/Microsoft/CryptnetUrlCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/Microsoft/CryptnetUrlCache/Content
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/AC/Microsoft/CryptnetUrlCache/MetaData
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/AppCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/AppCache/5KZ2P9E3
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/AppCache/5KZ2P9E3/2
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/INetCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/INetCookies
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/INetCookies/ESE
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/Microsoft
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/Microsoft/Internet Explorer
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/Microsoft/Internet Explorer/DOMStore
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/AC/Microsoft/Internet Explorer/DOMStore/0AZEHC20
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.HolographicFirstRun_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.HolographicFirstRun_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ParentalControls_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ParentalControls_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/INetCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/INetCookies
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/INetCookies/ESE
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/Microsoft
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/Microsoft/CryptnetUrlCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/Microsoft/CryptnetUrlCache/Content
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/Microsoft/CryptnetUrlCache/MetaData
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/Microsoft/Crypto
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/Microsoft/Crypto/TokenBindingKeys
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/AC/Microsoft/Crypto/TokenBindingKeys/Keys
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.SecHealthUI_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.SecHealthUI_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy/AC
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy/AC/GEH
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.XboxGameCallableUI_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.XboxGameCallableUI_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/ReaderNotificationClient_e1rzdqpraam7r
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/ReaderNotificationClient_e1rzdqpraam7r/AC
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/ReaderNotificationClient_e1rzdqpraam7r/AC/GEH
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/ReaderNotificationClient_e1rzdqpraam7r/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows_ie_ac_001
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows_ie_ac_001/AC
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows_ie_ac_001/AC/AppCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows_ie_ac_001/AC/AppCache/01T1FM71
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows_ie_ac_001/AC/INetCache
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows.immersivecontrolpanel_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/windows.immersivecontrolpanel_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Windows.PrintDialog_cw5n1h2txyewy
+/home/dgraper/colossus_share0/HChen Laptop 092320/AppData/Local/Packages/Windows.PrintDialog_cw5n1h2txyewy/Settings
+/home/dgraper/colossus_share0/Ing Nang 110520
+/home/dgraper/colossus_share0/Ing Nang 110520/Ing Nang Ghost Image Latitude
+/home/dgraper/colossus_share0/Ing Nang 110520/Kodak CD
+/home/dgraper/colossus_share0/Live Overflow - Web
+/home/dgraper/colossus_share0/Lnenicka Workstation Images
+/home/dgraper/colossus_share0/Lnenicka Workstation Images/WindowsImageBackup
+/home/dgraper/colossus_share0/Lnenicka Workstation Images/WindowsImageBackup/lnenickalab780b
+/home/dgraper/colossus_share0/Lnenicka Workstation Images/WindowsImageBackup/lnenickalab780b/Catalog
+/home/dgraper/colossus_share0/mr_images
+/home/dgraper/colossus_share0/mr_images/Larsen Laptop
+/home/dgraper/colossus_share0/mr_images/Larsen Laptop/LARSENE7490
+/home/dgraper/colossus_share0/mr_images/Larsen Laptop/LARSENE7490/Backup Set 2019-11-06 164139
+/home/dgraper/colossus_share0/mr_images/Larsen Laptop/LARSENE7490/Backup Set 2019-11-06 164139/Backup Files 2019-11-06 164139
+/home/dgraper/colossus_share0/mr_images/Larsen Laptop/LARSENE7490/Backup Set 2019-11-06 164139/Backup Files 2019-11-06 164139/Catalogs
+/home/dgraper/colossus_share0/Music
+/home/dgraper/colossus_share0/Music/Bach - Christmas Oratorium
+/home/dgraper/colossus_share0/Music/Bach - Easter Oratorio
+/home/dgraper/colossus_share0/Music/Bach.-.Sacred.Masterworks.Munchinger.-.CD01.ChristmasOratorium
+/home/dgraper/colossus_share0/Music/Bach.-.Sacred.Masterworks.Munchinger.-.CD02.ChristmasOratorium
