@@ -479,6 +479,7 @@ def create_backup_shellfile(agent, fastbackup):
                     fileout.write("rsync -Rhvp {0}/* {1}\n".format(line.replace("\n",""), destinationdrive))
 
 
+
 def execute_backupmediacleanup(logfilename, agent):
 
     today_long = datetime.today().strftime('%Y-%m-%d-%H:%M:%S')
