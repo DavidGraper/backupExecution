@@ -260,20 +260,22 @@ def ReadConfigurationFile(configfileName):
                 listofallfilestobackup = val0
             elif arg == "BACKUPAGENTSMOUNTPATH":
                 backupagentsmountpath = val0
+            elif arg == "VERBOSE":
+                verbose = val0
         if len(lineparts) == 3:
             val1 = lineparts[2].replace("\n", "").replace("\"", "")
             if re.match(agentpattern, arg):
-                agentinfo.append({'agentname': val0, 'agentbackupdevice': val1})
+                agentsinfo.append({'agentname': val0, 'agentbackupdevice': val1})
 
         fileline = f.readline()
     f.close()
 
-    if len(agentinfo) == 0:
+    if len(agentsinfo) == 0:
         raise Exception("No agents specified")
-    elif len(agentinfo) > 4:
+    elif len(agentsinfo) > 4:
         raise Exception(r"Too many agents (>4) specified")
 
-    returnvals = [dryrun, listofallfilestobackup, backupagentsmountpath, agentinfo]
+    returnvals = [dryrun, listofallfilestobackup, backupagentsmountpath, agentsinfo, verbose]
     return returnvals
 
 def create_tobedone_files(inputfilename, agent):
@@ -523,7 +525,7 @@ if __name__ == '__main__':
     listofallfilestobackup = ""
 
     # List of agents that this computer represents as well as devices on this computer used for backups
-    agentinfo = []
+    agentsinfo = []
 
     dryrun = False
 
@@ -531,8 +533,8 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(add_help=True)
 
     # add arguments to the parser
-    parser.add_argument('--dryrun', action="store_true", default=False)
-    parser.add_argument("--configfile", help="Configuration file")
+    parser.add_argument('--dryrun', help="Perform dry run", action="store_true", default=False)
+    parser.add_argument("--configfile", help="Configuration file (required)")
     parser.add_argument("--verbose", help="Show verbose output", default=False)
     parser.add_argument("--masterpath", help="Path to be backed up", default="")
 
@@ -555,16 +557,46 @@ if __name__ == '__main__':
         dryrun = returnvals[0]
         listofallfilestobackup = returnvals[1]
         backupagentsmountpath = returnvals[2]
-        agentinfo = returnvals[3]
+        agentsinfo = returnvals[3]
+        verbose = returnvals[4]
+
+        oktocontinue = True
+
+        if verbose:
+            print("Dryrun = '{0}'".format(dryrun))
+            print("Configfile '{0}' successfully read.".format(configfile))
+            print("File with list of all files to backup = '{0}'".format(listofallfilestobackup))
+
+            if os.path.exists(localbackupdrivemountpath):
+                print("\tFile exists = TRUE")
+            else
+                print("\tFile exists = FALSE")
+                oktocontinue = false
+
+            print("Local mount path for share to be backed up = '{0}'".format(backupagentsmountpath))
+
+            if os.path.isdir(backupagentsmountpath):
+                print("\tMount directory exists = TRUE")
+            else
+                print("\tMount directory exists = TRUE")
+                oktocontinue = false
+
+            i = 0
+            for agentinfo in agentsinfo:
+                i+=1
+                print("Agent {0} '{1}' will backup to '{2}'".format(i, agentinfo["agentname"], agentinfo["agentbackupdevice"]))
     else:
         print("No config file specified")
         exit()
+
+    # Check that all files/mounts exist and are accessible
+)
 
     # DIAGNOSTIC - Override and use local file during debugging
     listofallfilestobackup = "/home/dgraper/Documents/backupjobdivisions.txt"
 
     # Handle multiple agents (if specified)
-    for agent in agentinfo:
+    for agent in agentsinfo:
 
         # Extract lists of files to be backed up by each backup server
         # 1.  Create <BackupDeviceName>_tobedone.txt file for this agent
@@ -589,7 +621,7 @@ if __name__ == '__main__':
         # Modify the "to be done" file into a shell file
         create_backup_shellfile(agent, True)
 
-    for agent in agentinfo:
+    for agent in agentsinfo:
 
         # Set up the local logfile that contains status messages
         local_logfilename = createlocallogfile(agent)

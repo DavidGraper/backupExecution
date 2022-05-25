@@ -3,3 +3,4 @@ listofallfilestobackup:"/home/dgraper/backupserver_share0/backupjobdivisions.txt
 backupagentsmountpath:"/home/dgraper/colossus0_share0"
 agent0:"BackupDevice1":"/media/dgraper/PATRIOT0"
 agent2:"BackupDevice2":"/media/dgraper/500GB_A"
+verbose:"True"
